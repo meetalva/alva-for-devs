@@ -1,0 +1,1910 @@
+draft: false
+model: Project
+elements:
+  - model: Element
+    contentIds:
+      - 7bc05599-418d-4e63-8038-91ea26378176
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 930171ba-561b-43e5-9f87-6f791a08cf51
+    name: Page 1
+    open: true
+    forcedOpen: false
+    patternId: 9e888528-5483-4e2e-84f7-b51d0f299264
+    placeholderHighlighted: false
+    propertyValues: []
+    role: root
+    selected: false
+  - model: Element
+    containerId: 7bc05599-418d-4e63-8038-91ea26378176
+    contentIds:
+      - 34876345-7910-4da9-a94a-ac795508fa4d
+    dragged: false
+    focused: false
+    highlighted: false
+    id: a8c2cd33-9ef3-4404-a4b6-55ff4ffa269c
+    name: Field container
+    open: true
+    forcedOpen: false
+    patternId: cf7ea8cf-d402-4814-935e-5fbffa8c1aab
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: 34876345-7910-4da9-a94a-ac795508fa4d
+    contentIds:
+      - 38e34802-bb2f-44a6-b71c-25ae381d8435
+    dragged: false
+    focused: false
+    highlighted: false
+    id: d81cff62-a615-43c3-ab2c-42b2e7c7eaeb
+    name: Field
+    open: true
+    forcedOpen: false
+    patternId: 1536a9ad-cbb0-4893-af74-aa23edb97dd5
+    placeholderHighlighted: false
+    propertyValues:
+      - - a6aca295-043d-475f-a763-16f526a09af0
+        - 0ed2b51f-e81c-415e-a569-fa24fa439cbc
+    role: node
+    selected: false
+  - model: Element
+    containerId: 38e34802-bb2f-44a6-b71c-25ae381d8435
+    contentIds:
+      - 9b91afd2-ea4e-4177-8819-4b9384a66bfb
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 5804fe99-9432-4a72-bd62-c5a8cbb66d00
+    name: Field
+    open: false
+    forcedOpen: false
+    patternId: 1536a9ad-cbb0-4893-af74-aa23edb97dd5
+    placeholderHighlighted: false
+    propertyValues:
+      - - a6aca295-043d-475f-a763-16f526a09af0
+        - bce9ff30-2492-4275-a4f2-f224d1592df5
+    role: node
+    selected: false
+  - model: Element
+    containerId: 9419281a-af70-4ecb-b72f-5f7dd5086efa
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: db64ab58-30dd-421b-a939-0fb6da68c139
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: bc8d297c-791d-44e2-9b03-c634335d3d12
+    placeholderHighlighted: false
+    propertyValues:
+      - - d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+        - 'x: '
+    role: node
+    selected: false
+  - model: Element
+    containerId: 9419281a-af70-4ecb-b72f-5f7dd5086efa
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: dd6c2c9f-7a6c-4530-a414-432f5f2eed9d
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: bc8d297c-791d-44e2-9b03-c634335d3d12
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: 9b91afd2-ea4e-4177-8819-4b9384a66bfb
+    contentIds:
+      - 9419281a-af70-4ecb-b72f-5f7dd5086efa
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 88b04666-b31b-404d-a451-d99459ce04f3
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: dfae1044-4854-4459-aa12-3ac58e1a28c9
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: 21693219-4a53-4cb1-b6d6-aad18da66c0e
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: cb038d4d-887d-4864-9ad9-10d9ff4db38e
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: bc8d297c-791d-44e2-9b03-c634335d3d12
+    placeholderHighlighted: false
+    propertyValues:
+      - - d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+        - 'y: '
+    role: node
+    selected: false
+  - model: Element
+    containerId: 21693219-4a53-4cb1-b6d6-aad18da66c0e
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: cd508c2a-2db3-40f8-a716-dd1f140bab65
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: bc8d297c-791d-44e2-9b03-c634335d3d12
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: 9b91afd2-ea4e-4177-8819-4b9384a66bfb
+    contentIds:
+      - 21693219-4a53-4cb1-b6d6-aad18da66c0e
+    dragged: false
+    focused: false
+    highlighted: false
+    id: bbc05e85-40a8-4944-afa7-cd6447cc479e
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: dfae1044-4854-4459-aa12-3ac58e1a28c9
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    contentIds:
+      - 097a41e7-a4ce-422f-badc-5e3c03ca3d28
+    dragged: false
+    focused: false
+    highlighted: false
+    id: fc42a181-1e02-49e3-891f-c0e7dc978754
+    name: Page 2
+    open: true
+    forcedOpen: false
+    patternId: 9e888528-5483-4e2e-84f7-b51d0f299264
+    placeholderHighlighted: false
+    propertyValues: []
+    role: root
+    selected: false
+elementActions:
+  - model: ElementAction
+    elementPropertyId: d81cff62-a615-43c3-ab2c-42b2e7c7eaeb-a6aca295-043d-475f-a763-16f526a09af0
+    id: 0ed2b51f-e81c-415e-a569-fa24fa439cbc
+    open: false
+    payload: 'y'
+    payloadType: event-payload
+    storeActionId: 5ed0c926-e498-4f5e-af7b-d68d53f04d44
+    storePropertyId: 10e6fb8f-712c-4026-80f0-bbef05d97fa9
+  - model: ElementAction
+    elementPropertyId: 5804fe99-9432-4a72-bd62-c5a8cbb66d00-a6aca295-043d-475f-a763-16f526a09af0
+    id: bce9ff30-2492-4275-a4f2-f224d1592df5
+    open: false
+    payload: x
+    payloadType: event-payload
+    storeActionId: 5ed0c926-e498-4f5e-af7b-d68d53f04d44
+    storePropertyId: 56cde436-d171-48ac-bfed-8e8e07092e8e
+  - model: ElementAction
+    elementPropertyId: 5804fe99-9432-4a72-bd62-c5a8cbb66d00-a6aca295-043d-475f-a763-16f526a09af0
+    id: 8d733a6d-95ec-4663-a1e1-222561c97460
+    open: false
+    payload: x
+    payloadType: event-payload
+    storeActionId: 5ed0c926-e498-4f5e-af7b-d68d53f04d44
+    storePropertyId: 56cde436-d171-48ac-bfed-8e8e07092e8e
+  - model: ElementAction
+    elementPropertyId: d81cff62-a615-43c3-ab2c-42b2e7c7eaeb-a6aca295-043d-475f-a763-16f526a09af0
+    id: be7dbc30-7451-4684-9994-1db1e24e517f
+    open: false
+    payload: 'y'
+    payloadType: event-payload
+    storeActionId: 5ed0c926-e498-4f5e-af7b-d68d53f04d44
+    storePropertyId: 10e6fb8f-712c-4026-80f0-bbef05d97fa9
+elementContents:
+  - model: ElementContent
+    elementIds:
+      - a8c2cd33-9ef3-4404-a4b6-55ff4ffa269c
+    forcedOpen: true
+    highlighted: false
+    id: 7bc05599-418d-4e63-8038-91ea26378176
+    open: false
+    parentElementId: 930171ba-561b-43e5-9f87-6f791a08cf51
+    slotId: b7bd075e-cfd3-488a-b743-38a589cb75ed
+  - model: ElementContent
+    elementIds:
+      - d81cff62-a615-43c3-ab2c-42b2e7c7eaeb
+    forcedOpen: true
+    highlighted: false
+    id: 34876345-7910-4da9-a94a-ac795508fa4d
+    open: false
+    parentElementId: a8c2cd33-9ef3-4404-a4b6-55ff4ffa269c
+    slotId: ee22b991-bcef-4b1d-ba25-737dd81d78e3
+  - model: ElementContent
+    elementIds:
+      - 5804fe99-9432-4a72-bd62-c5a8cbb66d00
+    forcedOpen: true
+    highlighted: false
+    id: 38e34802-bb2f-44a6-b71c-25ae381d8435
+    open: false
+    parentElementId: d81cff62-a615-43c3-ab2c-42b2e7c7eaeb
+    slotId: dcb72c8c-2386-413d-8e00-9e8485cd2110
+  - model: ElementContent
+    elementIds:
+      - 88b04666-b31b-404d-a451-d99459ce04f3
+      - bbc05e85-40a8-4944-afa7-cd6447cc479e
+    forcedOpen: true
+    highlighted: false
+    id: 9b91afd2-ea4e-4177-8819-4b9384a66bfb
+    open: false
+    parentElementId: 5804fe99-9432-4a72-bd62-c5a8cbb66d00
+    slotId: dcb72c8c-2386-413d-8e00-9e8485cd2110
+  - model: ElementContent
+    elementIds:
+      - db64ab58-30dd-421b-a939-0fb6da68c139
+      - dd6c2c9f-7a6c-4530-a414-432f5f2eed9d
+    forcedOpen: true
+    highlighted: false
+    id: 9419281a-af70-4ecb-b72f-5f7dd5086efa
+    open: false
+    parentElementId: 88b04666-b31b-404d-a451-d99459ce04f3
+    slotId: 943d053e-7b09-4b36-860a-9e03ebbb2fab
+  - model: ElementContent
+    elementIds:
+      - cb038d4d-887d-4864-9ad9-10d9ff4db38e
+      - cd508c2a-2db3-40f8-a716-dd1f140bab65
+    forcedOpen: false
+    highlighted: false
+    id: 21693219-4a53-4cb1-b6d6-aad18da66c0e
+    open: false
+    parentElementId: bbc05e85-40a8-4944-afa7-cd6447cc479e
+    slotId: 943d053e-7b09-4b36-860a-9e03ebbb2fab
+  - model: ElementContent
+    elementIds: []
+    forcedOpen: true
+    highlighted: false
+    id: 097a41e7-a4ce-422f-badc-5e3c03ca3d28
+    open: false
+    parentElementId: fc42a181-1e02-49e3-891f-c0e7dc978754
+    slotId: b7bd075e-cfd3-488a-b743-38a589cb75ed
+id: ff7aac99-63fa-4b04-a29c-a20cf92c91fd
+name: 02-mousemove
+pages:
+  - model: Page
+    active: true
+    focused: true
+    id: 806e91d2-5cae-4cdc-8095-f2c8a52732a7
+    name: Page 1
+    rootId: fc42a181-1e02-49e3-891f-c0e7dc978754
+  - model: Page
+    active: false
+    focused: false
+    id: e78dad36-2ae3-4a68-b4f1-1caf17fc5219
+    name: Backup
+    rootId: 930171ba-561b-43e5-9f87-6f791a08cf51
+path: /Users/marneb/Documents/alva/alva-for-devs/02-mousemove.alva
+patternLibraries:
+  - model: PatternLibrary
+    bundleId: ''
+    bundle: ''
+    description: Built-in components for basic layouts and logic
+    id: 7b174c22-4d41-4e12-b9ea-005475017a85
+    name: Essentials
+    origin: built-in
+    patterns:
+      - model: Pattern
+        contextId: 'synthetic:page'
+        description: ''
+        exportName: default
+        id: 9e888528-5483-4e2e-84f7-b51d0f299264
+        name: Page
+        origin: built-in
+        propertyIds:
+          - d482864e-ce15-4762-82c4-f7f9e9a60ee6
+          - 60c01c24-c58e-4428-a073-936ba9112caa
+        slots:
+          - model: PatternSlot
+            contextId: children
+            description: ''
+            example: ''
+            hidden: false
+            label: Children
+            propertyName: children
+            id: b7bd075e-cfd3-488a-b743-38a589cb75ed
+            required: false
+            type: children
+        type: 'synthetic:page'
+      - model: Pattern
+        contextId: 'synthetic:text'
+        description: 'for Headlines, Copy and more'
+        exportName: default
+        id: bc8d297c-791d-44e2-9b03-c634335d3d12
+        name: Text
+        origin: built-in
+        propertyIds:
+          - d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+        slots: []
+        type: 'synthetic:text'
+      - model: Pattern
+        contextId: 'synthetic:box'
+        description: for Flexbox Layouts
+        exportName: default
+        id: dfae1044-4854-4459-aa12-3ac58e1a28c9
+        name: Box
+        origin: built-in
+        propertyIds:
+          - 53e34b25-9bff-45e4-a0c1-79dd0a7a094c
+          - 898bec8b-7e5c-4df7-b819-1482f37706cf
+          - 051bf64b-4675-4cb7-9d2d-95d5ec085ffa
+          - 0037d667-c4f7-4437-b3cd-2d7a8652d1ef
+          - e347c77d-5a0a-4979-8b23-13c1810b5956
+          - eeee1a22-16e8-4f59-96f7-d150ef0fe60f
+          - fd43484c-2c0a-4235-8d7e-a6cb93facbb1
+          - 78e1f5de-5c93-483e-a17d-f1789dfc47d4
+          - 38baab10-5c61-4bef-a324-2ff23714c1ca
+          - ee1431b4-20f7-4470-be68-4d80f4c61b60
+          - 717e3177-9032-4bf1-8a0b-3f8abca1bf4b
+        slots:
+          - model: PatternSlot
+            contextId: children
+            description: ''
+            example: ''
+            hidden: false
+            label: Children
+            propertyName: children
+            id: 943d053e-7b09-4b36-860a-9e03ebbb2fab
+            required: false
+            type: children
+        type: 'synthetic:box'
+      - model: Pattern
+        contextId: 'synthetic:conditional'
+        description: for conditional rendering
+        exportName: default
+        id: c14878bc-4aab-47d5-9c38-fbf28db1873e
+        name: Conditional
+        origin: built-in
+        propertyIds:
+          - 71429981-2bdf-4094-9874-f479e89d41c0
+        slots:
+          - model: PatternSlot
+            contextId: truthy
+            description: ''
+            example: ''
+            hidden: false
+            label: If True
+            propertyName: ifTrue
+            id: 4e20ea09-0aa7-4939-a158-c208dfe6a4bc
+            required: false
+            type: property
+          - model: PatternSlot
+            contextId: falsy
+            description: ''
+            example: ''
+            hidden: false
+            label: If False
+            propertyName: ifFalse
+            id: 0cbe098f-dd31-443a-863a-70317bd5cfed
+            required: false
+            type: property
+        type: 'synthetic:conditional'
+      - model: Pattern
+        contextId: 'synthetic:image'
+        description: for Design Drafts
+        exportName: default
+        id: 7ee82d49-c726-4b39-9ba6-5f218854a5ea
+        name: Image
+        origin: built-in
+        propertyIds:
+          - 73e6f551-54a8-4433-9c2d-c808b62b7aa2
+          - 1092e076-432c-4482-80f6-be488bb192ae
+          - 1621c2c5-fff3-44a6-a168-7e369a0d01bf
+          - f81aa410-cdde-4f00-b8d0-cca3de87380e
+          - a434bb73-e320-42e2-9bc2-3222fe7153ca
+          - 235d3197-b52e-4ae8-980a-7a9d9ffeea9d
+          - f038bce7-73f8-4463-8445-d07185181af1
+          - 33088526-0292-4e7a-a9de-074b953541c9
+        slots: []
+        type: 'synthetic:image'
+      - model: Pattern
+        contextId: 'synthetic:link'
+        description: for Interaction
+        exportName: default
+        id: 32c2d594-2185-4499-b6b3-9b3cac1fa5c8
+        name: Link
+        origin: built-in
+        propertyIds:
+          - 9f0e587b-f260-41fb-8ca0-3f90abf8e827
+        slots:
+          - model: PatternSlot
+            contextId: children
+            description: ''
+            example: ''
+            hidden: false
+            label: Children
+            propertyName: children
+            id: baaaf128-5cb8-495a-8410-1b131b8d7a10
+            required: false
+            type: children
+        type: 'synthetic:link'
+    patternProperties:
+      - model: PatternProperty
+        contextId: viewport
+        defaultValue: true
+        description: Adapt viewport to device
+        example: ''
+        hidden: false
+        id: d482864e-ce15-4762-82c4-f7f9e9a60ee6
+        inputType: default
+        label: Mobile Viewport
+        origin: built-in
+        propertyName: viewport
+        required: false
+        type: boolean
+      - model: PatternProperty
+        contextId: lang
+        defaultOptionId: 0c01dc7e-a2c9-4eb5-8d0f-8bec5a40de02
+        example: ''
+        description: Define in which language your website is.
+        hidden: false
+        id: 60c01c24-c58e-4428-a073-936ba9112caa
+        inputType: select
+        label: Language
+        propertyName: lang
+        options:
+          - contextId: aa
+            id: 815029b8-8507-4e98-93de-810cf08ebea3
+            name: Afar
+            ordinal: '1'
+            value: aa
+          - contextId: ab
+            id: a0cca67a-063e-4051-bf4a-8afe99e54c3b
+            name: Abkhaz
+            ordinal: '1'
+            value: ab
+          - contextId: ae
+            id: 0aec8cc3-cd75-4e8f-bbc4-01160905b1c6
+            name: Avestan
+            ordinal: '1'
+            value: ae
+          - contextId: af
+            id: a5554f26-2671-47bf-82e8-091632355ed3
+            name: Afrikaans
+            ordinal: '1'
+            value: af
+          - contextId: ak
+            id: 897acf39-3602-443f-a339-ff6f1dad2b24
+            name: Akan
+            ordinal: '1'
+            value: ak
+          - contextId: am
+            id: 944572d4-5487-4c7d-bf1a-85780a74ee6c
+            name: Amharic
+            ordinal: '1'
+            value: am
+          - contextId: an
+            id: 637f2054-e5c5-43c5-a9d0-5e45ba2eb477
+            name: Aragonese
+            ordinal: '1'
+            value: an
+          - contextId: ar
+            id: d2bbba33-479f-41e3-bce6-d12e1bb6919e
+            name: Arabic
+            ordinal: '1'
+            value: ar
+          - contextId: as
+            id: 46166a56-6198-49dc-82c8-f24cfe846a7a
+            name: Assamese
+            ordinal: '1'
+            value: as
+          - contextId: av
+            id: 3dfb10c5-87cd-47fc-b7fb-8e276142dd0b
+            name: Avaric
+            ordinal: '1'
+            value: av
+          - contextId: ay
+            id: 0c531048-98ed-44ce-8ce2-a3ebc66c6408
+            name: Aymara
+            ordinal: '1'
+            value: ay
+          - contextId: az
+            id: 6d2e7e22-474b-4daf-bb21-a7fb555d17fc
+            name: Azerbaijani
+            ordinal: '1'
+            value: az
+          - contextId: ba
+            id: 2785eed9-17fe-4a2e-80fa-548c42881aa6
+            name: Bashkir
+            ordinal: '1'
+            value: ba
+          - contextId: be
+            id: 5b832bd2-8279-4275-9ed1-fe94c1614d72
+            name: Belarusian
+            ordinal: '1'
+            value: be
+          - contextId: bg
+            id: be6ff932-dcef-4283-a330-37e6e474ff4b
+            name: Bulgarian
+            ordinal: '1'
+            value: bg
+          - contextId: bh
+            id: d2015af9-d346-446a-bfa7-ac6dac505f00
+            name: Bihari
+            ordinal: '1'
+            value: bh
+          - contextId: bi
+            id: afebe7bc-c64f-4c94-97d7-46997e123a79
+            name: Bislama
+            ordinal: '1'
+            value: bi
+          - contextId: bm
+            id: cb9e0242-4ba4-4df8-abaa-9f4c74f1ebdc
+            name: Bambara
+            ordinal: '1'
+            value: bm
+          - contextId: bn
+            id: 6fb25525-6da9-4fa6-ba11-f7eef5968d3f
+            name: Bengali
+            ordinal: '1'
+            value: bn
+          - contextId: bo
+            id: edfe6d31-3e69-49e5-9171-770d793ffc40
+            name: Tibetan Standard
+            ordinal: '1'
+            value: bo
+          - contextId: br
+            id: 4a146376-3379-493a-9b05-82eea5ccf476
+            name: Breton
+            ordinal: '1'
+            value: br
+          - contextId: bs
+            id: 796b9f25-31dc-4b8f-8a57-c253bd77983d
+            name: Bosnian
+            ordinal: '1'
+            value: bs
+          - contextId: ca
+            id: 4381ba36-e4cb-481a-9d5b-a136bb5d58cd
+            name: Catalan
+            ordinal: '1'
+            value: ca
+          - contextId: ce
+            id: 92e29ec2-6cab-492b-b95b-63173f25c5f5
+            name: Chechen
+            ordinal: '1'
+            value: ce
+          - contextId: ch
+            id: 1a366d5b-0d1e-43db-b7d0-5840b6bd33ab
+            name: Chamorro
+            ordinal: '1'
+            value: ch
+          - contextId: co
+            id: a17fe422-f777-4476-a8bf-4dc27c098f6a
+            name: Corsican
+            ordinal: '1'
+            value: co
+          - contextId: cr
+            id: 9333fd89-1b64-4726-bca8-b4979220bf02
+            name: Cree
+            ordinal: '1'
+            value: cr
+          - contextId: cs
+            id: fd6a6326-e01a-441d-89d5-812dfef02e10
+            name: Czech
+            ordinal: '1'
+            value: cs
+          - contextId: cu
+            id: db0d6afc-252c-4ff8-bdac-33c6f6dfa151
+            name: Old Church Slavonic
+            ordinal: '1'
+            value: cu
+          - contextId: cv
+            id: 54cef763-6d84-4c04-afc9-abfde94cc39e
+            name: Chuvash
+            ordinal: '1'
+            value: cv
+          - contextId: cy
+            id: 330f4709-251f-4de3-976d-e4eeffa6a8e9
+            name: Welsh
+            ordinal: '1'
+            value: cy
+          - contextId: da
+            id: 08aa6d63-f1bc-4a81-bccd-e1485d31db54
+            name: Danish
+            ordinal: '1'
+            value: da
+          - contextId: de
+            id: 53af8153-56a2-4179-ade0-e52899292e30
+            name: German
+            ordinal: '1'
+            value: de
+          - contextId: dv
+            id: 7952b386-c04f-4555-9653-a0e992a8a31a
+            name: Divehi
+            ordinal: '1'
+            value: dv
+          - contextId: dz
+            id: 27e272de-64e4-400c-b7e5-b6eff7dde90c
+            name: Dzongkha
+            ordinal: '1'
+            value: dz
+          - contextId: ee
+            id: c3d582e3-6d94-4862-b720-0d8aee555d63
+            name: Ewe
+            ordinal: '1'
+            value: ee
+          - contextId: el
+            id: a3f57d42-dae0-4f26-8596-5d61bb184f42
+            name: Greek
+            ordinal: '1'
+            value: el
+          - contextId: en
+            id: 0c01dc7e-a2c9-4eb5-8d0f-8bec5a40de02
+            name: English
+            ordinal: '1'
+            value: en
+          - contextId: eo
+            id: 3252527a-346e-4f8e-b3ff-255a1a0a1d8a
+            name: Esperanto
+            ordinal: '1'
+            value: eo
+          - contextId: es
+            id: 6be68d8e-05e8-4829-a5b6-974da768302f
+            name: Spanish
+            ordinal: '1'
+            value: es
+          - contextId: et
+            id: b6d81da8-0e8e-4b94-b72b-b28319dd2d8d
+            name: Estonian
+            ordinal: '1'
+            value: et
+          - contextId: eu
+            id: 5c0531ce-b321-47c0-836a-edd4fb5e83a5
+            name: Basque
+            ordinal: '1'
+            value: eu
+          - contextId: fa
+            id: a634c3e6-c3fc-485c-ae4c-607403d9066b
+            name: Persian
+            ordinal: '1'
+            value: fa
+          - contextId: ff
+            id: 803189d2-aa17-4468-8db3-00f3244d25af
+            name: Fula
+            ordinal: '1'
+            value: ff
+          - contextId: fi
+            id: f60b8105-53b5-4017-8963-662930c12c85
+            name: Finnish
+            ordinal: '1'
+            value: fi
+          - contextId: fj
+            id: a1d5e827-8ece-424b-9e3e-bbf87bb0ad35
+            name: Fijian
+            ordinal: '1'
+            value: fj
+          - contextId: fo
+            id: c6d7172d-3af1-4643-ba44-8bc0042d1a53
+            name: Faroese
+            ordinal: '1'
+            value: fo
+          - contextId: fr
+            id: a863af06-70b9-419d-8cbf-f3be89251ddc
+            name: French
+            ordinal: '1'
+            value: fr
+          - contextId: fy
+            id: 1b432fb1-df20-45b7-9920-5d4e901fe90a
+            name: Western Frisian
+            ordinal: '1'
+            value: fy
+          - contextId: ga
+            id: cf83be98-67dc-4e29-9c48-0146171a4ac7
+            name: Irish
+            ordinal: '1'
+            value: ga
+          - contextId: gd
+            id: f73cab11-52f9-489d-af36-0612a522ad14
+            name: Scottish Gaelic
+            ordinal: '1'
+            value: gd
+          - contextId: gl
+            id: 50606fbc-b339-4988-8f22-b1d821896b81
+            name: Galician
+            ordinal: '1'
+            value: gl
+          - contextId: gn
+            id: 45dc4b63-bef9-48ef-a000-898a44c54a7e
+            name: Guaraní
+            ordinal: '1'
+            value: gn
+          - contextId: gu
+            id: fda8ecc5-821b-4b17-9d74-86852b9ca3c4
+            name: Gujarati
+            ordinal: '1'
+            value: gu
+          - contextId: gv
+            id: 26b5ca76-f264-4dae-a754-09dd8996ec7b
+            name: Manx
+            ordinal: '1'
+            value: gv
+          - contextId: ha
+            id: 23a74c17-9515-4199-816e-a7c3812f4bf1
+            name: Hausa
+            ordinal: '1'
+            value: ha
+          - contextId: he
+            id: d46e0ffc-bd08-4842-ac8c-007f2dde2424
+            name: Hebrew
+            ordinal: '1'
+            value: he
+          - contextId: hi
+            id: 1e806e91-a256-4e4d-94fc-1c3969cd9ae3
+            name: Hindi
+            ordinal: '1'
+            value: hi
+          - contextId: ho
+            id: d850e2c8-2602-4683-8b7e-b786a231db8d
+            name: Hiri Motu
+            ordinal: '1'
+            value: ho
+          - contextId: hr
+            id: cd598eb5-3987-48b3-a290-1362d26f281b
+            name: Croatian
+            ordinal: '1'
+            value: hr
+          - contextId: ht
+            id: 5784fa0c-9138-4548-8e16-094dfd1413f9
+            name: Haitian
+            ordinal: '1'
+            value: ht
+          - contextId: hu
+            id: 5b8dec4c-6926-4fb0-b8d1-44cca84684b0
+            name: Hungarian
+            ordinal: '1'
+            value: hu
+          - contextId: hy
+            id: 7fe77f98-973c-449e-9670-b473757b3ab7
+            name: Armenian
+            ordinal: '1'
+            value: hy
+          - contextId: hz
+            id: e2f2a6e4-118a-4065-b6de-eef9ffda9895
+            name: Herero
+            ordinal: '1'
+            value: hz
+          - contextId: ia
+            id: e0b00430-5d23-44f9-81f9-a6a16b404db1
+            name: Interlingua
+            ordinal: '1'
+            value: ia
+          - contextId: id
+            id: 911c360c-9f61-4b9d-b222-92edddca1153
+            name: Indonesian
+            ordinal: '1'
+            value: id
+          - contextId: ie
+            id: 4c8148da-6400-479c-a23b-686111c47bb0
+            name: Interlingue
+            ordinal: '1'
+            value: ie
+          - contextId: ig
+            id: 567facfa-08ea-4b50-b2b7-43cc870f7380
+            name: Igbo
+            ordinal: '1'
+            value: ig
+          - contextId: ii
+            id: f218e4da-3452-4da4-bd02-f54a1ed75ea0
+            name: Nuosu
+            ordinal: '1'
+            value: ii
+          - contextId: ik
+            id: cb09e692-51cf-4d38-9236-2e9ca39fb397
+            name: Inupiaq
+            ordinal: '1'
+            value: ik
+          - contextId: io
+            id: 38af9747-933f-4bf5-b62b-5992f8dc5c4d
+            name: Ido
+            ordinal: '1'
+            value: io
+          - contextId: is
+            id: 0640e109-a198-4a0a-845c-dea4495c265b
+            name: Icelandic
+            ordinal: '1'
+            value: is
+          - contextId: it
+            id: e9a4a950-5895-4086-83e6-4f5fdc78255e
+            name: Italian
+            ordinal: '1'
+            value: it
+          - contextId: iu
+            id: 0bda571b-45a6-4d6a-aac3-3089087866ef
+            name: Inuktitut
+            ordinal: '1'
+            value: iu
+          - contextId: ja
+            id: 7f0b7da3-4d4d-4cfa-a141-3a36e7b29755
+            name: Japanese
+            ordinal: '1'
+            value: ja
+          - contextId: jv
+            id: 600f9ee3-15b7-462f-9047-ba94e468f195
+            name: Javanese
+            ordinal: '1'
+            value: jv
+          - contextId: ka
+            id: 55b82118-4c7c-492f-a864-ac431c9920a6
+            name: Georgian
+            ordinal: '1'
+            value: ka
+          - contextId: kg
+            id: 488b17d6-df26-4c21-9866-07d639005798
+            name: Kongo
+            ordinal: '1'
+            value: kg
+          - contextId: ki
+            id: efe5db85-7aaf-426a-b943-5f7c454149d2
+            name: Kikuyu
+            ordinal: '1'
+            value: ki
+          - contextId: kj
+            id: da76efec-aede-40d2-8258-1fcd9d0ad04e
+            name: Kwanyama
+            ordinal: '1'
+            value: kj
+          - contextId: kk
+            id: 0e869b64-8bfc-4c29-a565-12b5c037bfa5
+            name: Kazakh
+            ordinal: '1'
+            value: kk
+          - contextId: kl
+            id: a137bdcf-9db9-46eb-8556-68ffc4ee8b3d
+            name: Kalaallisut
+            ordinal: '1'
+            value: kl
+          - contextId: km
+            id: 9aaccf37-8258-4e4f-afce-02eb4523f410
+            name: Khmer
+            ordinal: '1'
+            value: km
+          - contextId: kn
+            id: 0c3ba64c-1674-4a78-8441-0b0eb9220f90
+            name: Kannada
+            ordinal: '1'
+            value: kn
+          - contextId: ko
+            id: 9aaa4218-9ee1-4f98-82ce-b78460321516
+            name: Korean
+            ordinal: '1'
+            value: ko
+          - contextId: kr
+            id: 64024231-aa2c-4228-ad9c-5d8a8d7a99d4
+            name: Kanuri
+            ordinal: '1'
+            value: kr
+          - contextId: ks
+            id: 729ced46-398e-4253-b788-b9d1d7f411e6
+            name: Kashmiri
+            ordinal: '1'
+            value: ks
+          - contextId: ku
+            id: eba85aa5-8387-41fa-9eb2-be8b0f3553ee
+            name: Kurdish
+            ordinal: '1'
+            value: ku
+          - contextId: kv
+            id: efdf515c-978d-4516-9b53-dd2ff508c47b
+            name: Komi
+            ordinal: '1'
+            value: kv
+          - contextId: kw
+            id: d77638d6-62d8-43a6-9979-704f4dad1891
+            name: Cornish
+            ordinal: '1'
+            value: kw
+          - contextId: ky
+            id: 913ea009-f07f-43ec-be8f-ddad137f4b37
+            name: Kyrgyz
+            ordinal: '1'
+            value: ky
+          - contextId: la
+            id: 7e0db125-43d0-466b-b8db-2b353985065d
+            name: Latin
+            ordinal: '1'
+            value: la
+          - contextId: lb
+            id: 9ab5ffec-bd9d-4ad5-a2b8-6c642ed3429f
+            name: Luxembourgish
+            ordinal: '1'
+            value: lb
+          - contextId: lg
+            id: 1f338be2-bc02-4d54-be73-a277c671298a
+            name: Ganda
+            ordinal: '1'
+            value: lg
+          - contextId: li
+            id: 869ab775-34be-46cb-ab30-b8b68a39dff1
+            name: Limburgish
+            ordinal: '1'
+            value: li
+          - contextId: ln
+            id: be58dbe5-8f97-4cc4-8a6b-1b18ca15f477
+            name: Lingala
+            ordinal: '1'
+            value: ln
+          - contextId: lo
+            id: 712d3de2-9d14-4e7a-aca4-23724cafd6a4
+            name: Lao
+            ordinal: '1'
+            value: lo
+          - contextId: lt
+            id: a530b2bb-3774-44d8-bfc4-708a067dac38
+            name: Lithuanian
+            ordinal: '1'
+            value: lt
+          - contextId: lu
+            id: 1e0cf90c-2394-43f1-9a7d-a07f078b0ca0
+            name: Luba-Katanga
+            ordinal: '1'
+            value: lu
+          - contextId: lv
+            id: db664334-55f1-44d1-92e9-ee0d12ddae65
+            name: Latvian
+            ordinal: '1'
+            value: lv
+          - contextId: mg
+            id: 7c6b4955-70b1-46fd-81b5-639a16a3eedf
+            name: Malagasy
+            ordinal: '1'
+            value: mg
+          - contextId: mh
+            id: 806791dd-0d45-44b5-8f00-59155a134477
+            name: Marshallese
+            ordinal: '1'
+            value: mh
+          - contextId: mi
+            id: 795230eb-a114-4990-b686-f511a6426d5b
+            name: Māori
+            ordinal: '1'
+            value: mi
+          - contextId: mk
+            id: 38ec77ec-cde8-4aff-868d-0bc092726ee2
+            name: Macedonian
+            ordinal: '1'
+            value: mk
+          - contextId: ml
+            id: 24ed6748-d0e8-46c7-87a3-49998c63230f
+            name: Malayalam
+            ordinal: '1'
+            value: ml
+          - contextId: mn
+            id: bebe121e-63f7-4e4c-9dfe-ffab6097ba8c
+            name: Mongolian
+            ordinal: '1'
+            value: mn
+          - contextId: mr
+            id: e8c3b120-0bda-43d7-987f-e8a88f05eab5
+            name: Marathi
+            ordinal: '1'
+            value: mr
+          - contextId: ms
+            id: 3af029f5-ea87-4983-9ef7-013245f39916
+            name: Malay
+            ordinal: '1'
+            value: ms
+          - contextId: mt
+            id: b2cee6a4-ab80-4855-9c4f-aeae882522e5
+            name: Maltese
+            ordinal: '1'
+            value: mt
+          - contextId: my
+            id: 93aca3fa-a4f2-469c-aa0f-93321a33049e
+            name: Burmese
+            ordinal: '1'
+            value: my
+          - contextId: na
+            id: 3c820cc2-8754-4b62-bdc0-030c0acfe597
+            name: Nauru
+            ordinal: '1'
+            value: na
+          - contextId: nb
+            id: 3be3913f-8068-44b1-88fa-20f22df09058
+            name: Norwegian Bokmål
+            ordinal: '1'
+            value: nb
+          - contextId: nd
+            id: ec7130a5-9799-4cf7-ab46-106db488e9a8
+            name: Northern Ndebele
+            ordinal: '1'
+            value: nd
+          - contextId: ne
+            id: 844a143e-a07c-4fd6-90f9-32bff76808af
+            name: Nepali
+            ordinal: '1'
+            value: ne
+          - contextId: ng
+            id: 276babb8-ad41-4267-b258-44f8c8a156ea
+            name: Ndonga
+            ordinal: '1'
+            value: ng
+          - contextId: nl
+            id: 89e7f9ca-4393-4ff3-bf5f-bcb9bc5ec542
+            name: Dutch
+            ordinal: '1'
+            value: nl
+          - contextId: nn
+            id: 0ee0b05a-0a01-42f3-8c54-e8a1895792fd
+            name: Norwegian Nynorsk
+            ordinal: '1'
+            value: nn
+          - contextId: 'no'
+            id: 83db545c-7987-411f-9442-6f3389898b59
+            name: Norwegian
+            ordinal: '1'
+            value: 'no'
+          - contextId: nr
+            id: de4946f2-5df9-4cdc-ba24-a2659f5dbe48
+            name: Southern Ndebele
+            ordinal: '1'
+            value: nr
+          - contextId: nv
+            id: 4a9a7a07-9cc5-4023-b794-5761dea84613
+            name: Navajo
+            ordinal: '1'
+            value: nv
+          - contextId: ny
+            id: f2b544e1-4c53-4591-8694-c1fb08dac3c9
+            name: Chichewa
+            ordinal: '1'
+            value: ny
+          - contextId: oc
+            id: 8727ffda-0192-4881-bc66-41c3e7e0f06f
+            name: Occitan
+            ordinal: '1'
+            value: oc
+          - contextId: oj
+            id: 2bf18837-856f-4ee7-9531-312563cccf9f
+            name: Ojibwe
+            ordinal: '1'
+            value: oj
+          - contextId: om
+            id: 1648230b-f304-424c-a165-f79fa048dd81
+            name: Oromo
+            ordinal: '1'
+            value: om
+          - contextId: or
+            id: 82cbbf8f-e807-476f-b445-fffa3e35ad35
+            name: Oriya
+            ordinal: '1'
+            value: or
+          - contextId: os
+            id: 57eba2af-5b11-46e7-b05e-652286101726
+            name: Ossetian
+            ordinal: '1'
+            value: os
+          - contextId: pa
+            id: 3ed05f27-d329-482d-8404-4ce2cfb05cfb
+            name: Panjabi
+            ordinal: '1'
+            value: pa
+          - contextId: pi
+            id: 4155a102-bf44-4382-9b6c-2c73196cade5
+            name: Pāli
+            ordinal: '1'
+            value: pi
+          - contextId: pl
+            id: 474b7927-630f-40ad-9c90-0a467cd594a9
+            name: Polish
+            ordinal: '1'
+            value: pl
+          - contextId: ps
+            id: 17be94ec-ab21-453d-b16f-e0a4cd24a286
+            name: Pashto
+            ordinal: '1'
+            value: ps
+          - contextId: pt
+            id: 404c3558-3099-4546-90a3-2a3139d74791
+            name: Portuguese
+            ordinal: '1'
+            value: pt
+          - contextId: qu
+            id: d7f7fa0d-1117-4b7e-8538-01fd3d5f9fff
+            name: Quechua
+            ordinal: '1'
+            value: qu
+          - contextId: rm
+            id: bfcc0238-9ac4-489e-9548-f9fe4f949dbd
+            name: Romansh
+            ordinal: '1'
+            value: rm
+          - contextId: rn
+            id: 86993fa9-fcef-484e-a7b4-48f06c687e13
+            name: Kirundi
+            ordinal: '1'
+            value: rn
+          - contextId: ro
+            id: c4748e11-2456-418a-a201-f4fcdaa0115e
+            name: Romanian
+            ordinal: '1'
+            value: ro
+          - contextId: ru
+            id: d53ce97f-543e-4037-8869-10e3bf957b46
+            name: Russian
+            ordinal: '1'
+            value: ru
+          - contextId: rw
+            id: de5e3338-6613-4aac-a849-e2b637d648ed
+            name: Kinyarwanda
+            ordinal: '1'
+            value: rw
+          - contextId: sa
+            id: 92c2f8e6-9be1-4b69-a84d-fb78180af6f0
+            name: Sanskrit
+            ordinal: '1'
+            value: sa
+          - contextId: sc
+            id: 11f823a3-75f0-4726-a20c-8134ca9aa6ee
+            name: Sardinian
+            ordinal: '1'
+            value: sc
+          - contextId: sd
+            id: 25556d71-87ef-41e9-8d98-f76ec4e0a2ea
+            name: Sindhi
+            ordinal: '1'
+            value: sd
+          - contextId: se
+            id: febd8cba-7d79-4fce-85d8-1af350445432
+            name: Northern Sami
+            ordinal: '1'
+            value: se
+          - contextId: sg
+            id: 4c860f1d-4f76-4543-a49f-d722e7bcfe15
+            name: Sango
+            ordinal: '1'
+            value: sg
+          - contextId: si
+            id: 75c75470-1870-4d4a-982b-fa477f751c1b
+            name: Sinhala
+            ordinal: '1'
+            value: si
+          - contextId: sk
+            id: 18ec0c1d-a55f-4ed5-ad55-b1a62cfb504d
+            name: Slovak
+            ordinal: '1'
+            value: sk
+          - contextId: sl
+            id: dd3ab6af-07b5-4ef3-b5fd-d799a118f4f2
+            name: Slovene
+            ordinal: '1'
+            value: sl
+          - contextId: sm
+            id: c5e1d881-3fe6-4f8c-9d57-e86d4a78cf19
+            name: Samoan
+            ordinal: '1'
+            value: sm
+          - contextId: sn
+            id: 12eb8dae-55b6-465c-aa6f-973e95fe0f85
+            name: Shona
+            ordinal: '1'
+            value: sn
+          - contextId: so
+            id: 27bba48b-89e3-4b12-a7ba-71d03e09f61f
+            name: Somali
+            ordinal: '1'
+            value: so
+          - contextId: sq
+            id: c936108c-719b-48e5-ac3d-652b32e51839
+            name: Albanian
+            ordinal: '1'
+            value: sq
+          - contextId: sr
+            id: 5a5ae1c0-608e-40af-b010-5c84dae2aff5
+            name: Serbian
+            ordinal: '1'
+            value: sr
+          - contextId: ss
+            id: ecec6b4f-9df4-4a80-ab3b-e10dff12bdc5
+            name: Swati
+            ordinal: '1'
+            value: ss
+          - contextId: st
+            id: 6a51fd9a-c425-4ce0-857e-d5b93bbac008
+            name: Southern Sotho
+            ordinal: '1'
+            value: st
+          - contextId: su
+            id: 386c738f-7642-4934-a75b-9e864949eb6b
+            name: Sundanese
+            ordinal: '1'
+            value: su
+          - contextId: sv
+            id: 31337c04-0206-47c8-a946-16405be6b23c
+            name: Swedish
+            ordinal: '1'
+            value: sv
+          - contextId: sw
+            id: 6177f572-1191-4d9c-b344-4012a94361f5
+            name: Swahili
+            ordinal: '1'
+            value: sw
+          - contextId: ta
+            id: 66e99ea2-8226-4dc0-a4ec-c3abb83d717d
+            name: Tamil
+            ordinal: '1'
+            value: ta
+          - contextId: te
+            id: 3bcd82f5-0680-4a0a-a033-5116632ff350
+            name: Telugu
+            ordinal: '1'
+            value: te
+          - contextId: tg
+            id: 95a02be7-48ff-4338-9020-b26a1d922210
+            name: Tajik
+            ordinal: '1'
+            value: tg
+          - contextId: th
+            id: d74bacf8-75b6-4ca8-a4e9-2c6d9e0f16d0
+            name: Thai
+            ordinal: '1'
+            value: th
+          - contextId: ti
+            id: 8b125c36-0293-481d-b243-336c2a8e68bf
+            name: Tigrinya
+            ordinal: '1'
+            value: ti
+          - contextId: tk
+            id: 89cd8858-5c73-438f-99f4-547af1396b51
+            name: Turkmen
+            ordinal: '1'
+            value: tk
+          - contextId: tl
+            id: acbd65f4-57d8-4865-bd53-2ae1da585469
+            name: Tagalog
+            ordinal: '1'
+            value: tl
+          - contextId: tn
+            id: a43b3a9d-7a0a-45d8-be94-7398f7278eff
+            name: Tswana
+            ordinal: '1'
+            value: tn
+          - contextId: to
+            id: bd093c81-7d3c-448f-9162-90c4bb6bfcac
+            name: Tonga
+            ordinal: '1'
+            value: to
+          - contextId: tr
+            id: e3c5c0f7-ce83-4239-955a-613e926a71a3
+            name: Turkish
+            ordinal: '1'
+            value: tr
+          - contextId: ts
+            id: 3f605d13-548d-45db-b979-a6b8e80e637a
+            name: Tsonga
+            ordinal: '1'
+            value: ts
+          - contextId: tt
+            id: 77232170-1c67-4bc2-90a2-ece3cdb5c5ca
+            name: Tatar
+            ordinal: '1'
+            value: tt
+          - contextId: tw
+            id: 514b3d76-6643-4269-86e4-14487b1c2e6a
+            name: Twi
+            ordinal: '1'
+            value: tw
+          - contextId: ty
+            id: dd9f1c0f-2b5d-4c75-8aed-0cbde59df7b1
+            name: Tahitian
+            ordinal: '1'
+            value: ty
+          - contextId: ug
+            id: 4e511d2c-726a-40d3-9838-c89ff45afeff
+            name: Uyghur
+            ordinal: '1'
+            value: ug
+          - contextId: uk
+            id: 199c9d9b-e484-459f-b51c-2fac1f3e09ec
+            name: Ukrainian
+            ordinal: '1'
+            value: uk
+          - contextId: ur
+            id: 198816e9-0850-460d-9039-555d75bcace5
+            name: Urdu
+            ordinal: '1'
+            value: ur
+          - contextId: uz
+            id: 7037051b-75e0-4a54-8cf7-9e9c73b17695
+            name: Uzbek
+            ordinal: '1'
+            value: uz
+          - contextId: ve
+            id: 769d7eee-631b-4640-beb8-76248aa5a2ea
+            name: Venda
+            ordinal: '1'
+            value: ve
+          - contextId: vi
+            id: 02f3b7fe-0c12-4f73-9013-babcacf34db5
+            name: Vietnamese
+            ordinal: '1'
+            value: vi
+          - contextId: vo
+            id: 4712ad1c-0c8b-4060-bc48-3db229850e45
+            name: Volapük
+            ordinal: '1'
+            value: vo
+          - contextId: wa
+            id: dec33a29-e988-4420-803e-b7a213e726b0
+            name: Walloon
+            ordinal: '1'
+            value: wa
+          - contextId: wo
+            id: 189abdd9-fd2c-4619-8f1a-30c784b1c7bb
+            name: Wolof
+            ordinal: '1'
+            value: wo
+          - contextId: xh
+            id: dd58828c-f98d-46b3-9ddd-8dbe20dea07d
+            name: Xhosa
+            ordinal: '1'
+            value: xh
+          - contextId: yi
+            id: d7510786-7ef1-492a-9d7c-101ca79589c9
+            name: Yiddish
+            ordinal: '1'
+            value: yi
+          - contextId: yo
+            id: 53c68770-e725-4e02-a250-d3c43def6fc6
+            name: Yoruba
+            ordinal: '1'
+            value: yo
+          - contextId: za
+            id: 8626895b-731d-4077-902e-d8f0c7a60e07
+            name: Zhuang
+            ordinal: '1'
+            value: za
+          - contextId: zh
+            id: c3bf1244-0c3b-439e-9a6c-718086c79ced
+            name: Chinese
+            ordinal: '1'
+            value: zh
+          - contextId: zu
+            id: 55534414-b40f-4943-a31b-0afca3e24945
+            name: Zulu
+            ordinal: '1'
+            value: zu
+        origin: built-in
+        required: false
+        type: enum
+      - model: PatternProperty
+        contextId: src
+        example: ''
+        hidden: false
+        id: 73e6f551-54a8-4433-9c2d-c808b62b7aa2
+        inputType: default
+        label: Image
+        origin: built-in
+        propertyName: src
+        required: false
+        type: asset
+      - model: PatternProperty
+        contextId: width
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: 1092e076-432c-4482-80f6-be488bb192ae
+        inputType: default
+        label: Width
+        origin: built-in
+        propertyName: width
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: height
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: 1621c2c5-fff3-44a6-a168-7e369a0d01bf
+        inputType: default
+        label: Height
+        origin: built-in
+        propertyName: height
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: min-width
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: f81aa410-cdde-4f00-b8d0-cca3de87380e
+        inputType: default
+        label: Min Width
+        origin: built-in
+        propertyName: minWidth
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: min-height
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: a434bb73-e320-42e2-9bc2-3222fe7153ca
+        inputType: default
+        label: Min Height
+        origin: built-in
+        propertyName: minHeight
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: max-width
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: 235d3197-b52e-4ae8-980a-7a9d9ffeea9d
+        inputType: default
+        label: Max Width
+        origin: built-in
+        propertyName: maxWidth
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: max-height
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: f038bce7-73f8-4463-8445-d07185181af1
+        inputType: default
+        label: Max Height
+        origin: built-in
+        propertyName: maxHeight
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: onClick
+        description: You can set an interaction that happens on Click.
+        event:
+          type: MouseEvent
+        example: ''
+        hidden: false
+        id: 33088526-0292-4e7a-a9de-074b953541c9
+        inputType: default
+        label: Interaction
+        origin: built-in
+        propertyName: onClick
+        required: false
+        type: EventHandler
+      - model: PatternProperty
+        contextId: text
+        defaultValue: Text
+        example: ''
+        hidden: false
+        id: d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+        inputType: default
+        label: Text
+        origin: built-in
+        propertyName: text
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: flex
+        defaultValue: true
+        example: ''
+        hidden: false
+        id: 53e34b25-9bff-45e4-a0c1-79dd0a7a094c
+        inputType: default
+        label: Flex
+        origin: built-in
+        propertyName: flex
+        required: false
+        type: boolean
+      - model: PatternProperty
+        contextId: flex-direction
+        defaultOptionId: 0ef63429-63e5-4839-9bd6-da263197c509
+        example: ''
+        hidden: false
+        id: 898bec8b-7e5c-4df7-b819-1482f37706cf
+        inputType: radio-group
+        label: Direction
+        propertyName: flexDirection
+        options:
+          - contextId: row
+            id: 0ef63429-63e5-4839-9bd6-da263197c509
+            name: Horizontal
+            ordinal: '0'
+            value: row
+          - contextId: column
+            id: 8a1e6658-6cc9-408c-adc1-be456451ae39
+            name: Vertical
+            ordinal: '1'
+            value: column
+        origin: built-in
+        required: false
+        type: enum
+      - model: PatternProperty
+        contextId: align-items
+        defaultOptionId: 69066180-0f6d-42fe-9bfc-de2108332fda
+        example: ''
+        hidden: false
+        id: 051bf64b-4675-4cb7-9d2d-95d5ec085ffa
+        inputType: radio-group
+        label: Align
+        propertyName: alignItems
+        options:
+          - contextId: flex-start
+            icon: 2
+            id: d761f4b8-7f34-4d18-8286-894c372c15c4
+            name: Start
+            ordinal: '0'
+            value: flex-start
+          - contextId: center
+            icon: 3
+            id: 69066180-0f6d-42fe-9bfc-de2108332fda
+            name: Center
+            ordinal: '1'
+            value: center
+          - contextId: flex-end
+            icon: 4
+            id: 0dc5dd4e-70bd-41b7-a738-a867c8684212
+            name: End
+            ordinal: '2'
+            value: flex-end
+          - contextId: stretch
+            icon: 5
+            id: 767cdca3-b748-4d45-bc77-f89c2932e488
+            name: Stretch
+            ordinal: '3'
+            value: stretch
+          - contextId: baseline
+            icon: 6
+            id: 1d70ff75-07b0-4ca1-b1b4-37c8d589086c
+            name: Baseline
+            ordinal: '4'
+            value: baseline
+        origin: built-in
+        required: false
+        type: enum
+      - model: PatternProperty
+        contextId: justify-content
+        defaultOptionId: e03681d8-2b38-4102-ba26-cc254b02336c
+        example: ''
+        hidden: false
+        id: 0037d667-c4f7-4437-b3cd-2d7a8652d1ef
+        inputType: select
+        label: Justify
+        propertyName: justifyContent
+        options:
+          - contextId: flex-start
+            id: d4bb473c-843e-4338-a4fd-c50090ff2282
+            name: Start
+            ordinal: '0'
+            value: flex-start
+          - contextId: flex-end
+            id: 17581934-7f0f-4aef-8fc9-fc4da7d62a84
+            name: End
+            ordinal: '1'
+            value: flex-end
+          - contextId: center
+            id: e03681d8-2b38-4102-ba26-cc254b02336c
+            name: Center
+            ordinal: '2'
+            value: center
+          - contextId: space-between
+            id: df3bb605-886b-4d7d-8938-672d206bcfc8
+            name: Space Between
+            ordinal: '3'
+            value: space-between
+          - contextId: space-around
+            id: 4179b03e-1bc8-4eb9-a21c-0758918b7cfb
+            name: Space Around
+            ordinal: '4'
+            value: space-around
+          - contextId: space-evenly
+            id: b09e32bd-2872-4d78-b85c-d0254e92c9c5
+            name: Space Evenly
+            ordinal: '5'
+            value: space-evenly
+        origin: built-in
+        required: false
+        type: enum
+      - model: PatternProperty
+        contextId: flex-wrap
+        defaultValue: false
+        example: ''
+        hidden: false
+        id: e347c77d-5a0a-4979-8b23-13c1810b5956
+        inputType: default
+        label: Wrap
+        origin: built-in
+        propertyName: wrap
+        required: false
+        type: boolean
+      - model: PatternProperty
+        contextId: flex-grow
+        defaultValue: 1
+        example: ''
+        hidden: false
+        id: eeee1a22-16e8-4f59-96f7-d150ef0fe60f
+        inputType: default
+        label: Grow
+        origin: built-in
+        propertyName: flexGrow
+        required: false
+        type: number
+      - model: PatternProperty
+        contextId: flex-shrink
+        defaultValue: 1
+        example: ''
+        hidden: false
+        id: fd43484c-2c0a-4235-8d7e-a6cb93facbb1
+        inputType: default
+        label: Shrink
+        origin: built-in
+        propertyName: flexShrink
+        required: false
+        type: number
+      - model: PatternProperty
+        contextId: flex-basis
+        defaultValue: auto
+        example: ''
+        hidden: false
+        id: 78e1f5de-5c93-483e-a17d-f1789dfc47d4
+        inputType: default
+        label: Size
+        origin: built-in
+        propertyName: flexBasis
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: width
+        defaultValue: auto
+        example: ''
+        hidden: false
+        id: 38baab10-5c61-4bef-a324-2ff23714c1ca
+        inputType: default
+        label: Width
+        origin: built-in
+        propertyName: width
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: height
+        defaultValue: auto
+        example: ''
+        hidden: false
+        id: ee1431b4-20f7-4470-be68-4d80f4c61b60
+        inputType: default
+        label: Height
+        origin: built-in
+        propertyName: height
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: background-color
+        defaultValue: ''
+        example: ''
+        hidden: false
+        id: 717e3177-9032-4bf1-8a0b-3f8abca1bf4b
+        inputType: default
+        label: Background Color
+        origin: built-in
+        propertyName: backgroundColor
+        required: false
+        type: string
+      - model: PatternProperty
+        contextId: condition
+        defaultValue: true
+        description: 'Show the "True" slot, disable to show the "False" slot'
+        example: ''
+        hidden: false
+        id: 71429981-2bdf-4094-9874-f479e89d41c0
+        inputType: default
+        label: Condition
+        origin: built-in
+        propertyName: condition
+        required: true
+        type: boolean
+      - model: PatternProperty
+        contextId: onClick
+        description: You can set an interaction that happens on Click.
+        event:
+          type: MouseEvent
+        example: ''
+        hidden: false
+        id: 9f0e587b-f260-41fb-8ca0-3f90abf8e827
+        inputType: default
+        label: Interaction
+        origin: built-in
+        propertyName: onClick
+        required: false
+        type: EventHandler
+    state: connected
+  - model: PatternLibrary
+    bundleId: 2aac2b43-ad5f-482f-85ef-6f224bf14ee3
+    bundle: "window[\"2aac2b43-ad5f-482f-85ef-6f224bf14ee3\"] =\n/******/ (function(modules) { // webpackBootstrap\n/******/ \t// The module cache\n/******/ \tvar installedModules = {};\n/******/\n/******/ \t// The require function\n/******/ \tfunction __webpack_require__(moduleId) {\n/******/\n/******/ \t\t// Check if module is in cache\n/******/ \t\tif(installedModules[moduleId]) {\n/******/ \t\t\treturn installedModules[moduleId].exports;\n/******/ \t\t}\n/******/ \t\t// Create a new module (and put it into the cache)\n/******/ \t\tvar module = installedModules[moduleId] = {\n/******/ \t\t\ti: moduleId,\n/******/ \t\t\tl: false,\n/******/ \t\t\texports: {}\n/******/ \t\t};\n/******/\n/******/ \t\t// Execute the module function\n/******/ \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n/******/\n/******/ \t\t// Flag the module as loaded\n/******/ \t\tmodule.l = true;\n/******/\n/******/ \t\t// Return the exports of the module\n/******/ \t\treturn module.exports;\n/******/ \t}\n/******/\n/******/\n/******/ \t// expose the modules object (__webpack_modules__)\n/******/ \t__webpack_require__.m = modules;\n/******/\n/******/ \t// expose the module cache\n/******/ \t__webpack_require__.c = installedModules;\n/******/\n/******/ \t// define getter function for harmony exports\n/******/ \t__webpack_require__.d = function(exports, name, getter) {\n/******/ \t\tif(!__webpack_require__.o(exports, name)) {\n/******/ \t\t\tObject.defineProperty(exports, name, { enumerable: true, get: getter });\n/******/ \t\t}\n/******/ \t};\n/******/\n/******/ \t// define __esModule on exports\n/******/ \t__webpack_require__.r = function(exports) {\n/******/ \t\tif(typeof Symbol !== 'undefined' && Symbol.toStringTag) {\n/******/ \t\t\tObject.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });\n/******/ \t\t}\n/******/ \t\tObject.defineProperty(exports, '__esModule', { value: true });\n/******/ \t};\n/******/\n/******/ \t// create a fake namespace object\n/******/ \t// mode & 1: value is a module id, require it\n/******/ \t// mode & 2: merge all properties of value into the ns\n/******/ \t// mode & 4: return value when already ns object\n/******/ \t// mode & 8|1: behave like require\n/******/ \t__webpack_require__.t = function(value, mode) {\n/******/ \t\tif(mode & 1) value = __webpack_require__(value);\n/******/ \t\tif(mode & 8) return value;\n/******/ \t\tif((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;\n/******/ \t\tvar ns = Object.create(null);\n/******/ \t\t__webpack_require__.r(ns);\n/******/ \t\tObject.defineProperty(ns, 'default', { enumerable: true, value: value });\n/******/ \t\tif(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));\n/******/ \t\treturn ns;\n/******/ \t};\n/******/\n/******/ \t// getDefaultExport function for compatibility with non-harmony modules\n/******/ \t__webpack_require__.n = function(module) {\n/******/ \t\tvar getter = module && module.__esModule ?\n/******/ \t\t\tfunction getDefault() { return module['default']; } :\n/******/ \t\t\tfunction getModuleExports() { return module; };\n/******/ \t\t__webpack_require__.d(getter, 'a', getter);\n/******/ \t\treturn getter;\n/******/ \t};\n/******/\n/******/ \t// Object.prototype.hasOwnProperty.call\n/******/ \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n/******/\n/******/ \t// __webpack_public_path__\n/******/ \t__webpack_require__.p = \"\";\n/******/\n/******/\n/******/ \t// Load entry module and return exports\n/******/ \treturn __webpack_require__(__webpack_require__.s = \"../alva/build/preview/preview-loader.js?components=%7B%221536a9ad-cbb0-4893-af74-aa23edb97dd5%22%3A%22.%2Flib%2Ffield.js%22%2C%22cf7ea8cf-d402-4814-935e-5fbffa8c1aab%22%3A%22.%2Flib%2Ffield.js%22%2C%22dbdd8c14-0312-4ff5-a00c-8ce740f68380%22%3A%22.%2Flib%2Freverser.js%22%7D&cwd=%2FUsers%2Fmarneb%2FDocuments%2Falva%2Falva-for-devs!./\");\n/******/ })\n/************************************************************************/\n/******/ ({\n\n/***/ \"../alva/build/preview/preview-loader.js?components=%7B%221536a9ad-cbb0-4893-af74-aa23edb97dd5%22%3A%22.%2Flib%2Ffield.js%22%2C%22cf7ea8cf-d402-4814-935e-5fbffa8c1aab%22%3A%22.%2Flib%2Ffield.js%22%2C%22dbdd8c14-0312-4ff5-a00c-8ce740f68380%22%3A%22.%2Flib%2Freverser.js%22%7D&cwd=%2FUsers%2Fmarneb%2FDocuments%2Falva%2Falva-for-devs!./\":\n/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\\\n  !*** ../alva/build/preview/preview-loader.js?components=%7B%221536a9ad-cbb0-4893-af74-aa23edb97dd5%22%3A%22.%2Flib%2Ffield.js%22%2C%22cf7ea8cf-d402-4814-935e-5fbffa8c1aab%22%3A%22.%2Flib%2Ffield.js%22%2C%22dbdd8c14-0312-4ff5-a00c-8ce740f68380%22%3A%22.%2Flib%2Freverser.js%22%7D&cwd=%2FUsers%2Fmarneb%2FDocuments%2Falva%2Falva-for-devs ***!\n  \\**************************************************************************************************************************************************************************************************************************************************************************************************************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\neval(\"module.exports[\\\"1536a9ad-cbb0-4893-af74-aa23edb97dd5\\\"] = __webpack_require__(/*! ./lib/field.js */ \\\"./lib/field.js\\\")\\nmodule.exports[\\\"cf7ea8cf-d402-4814-935e-5fbffa8c1aab\\\"] = __webpack_require__(/*! ./lib/field.js */ \\\"./lib/field.js\\\")\\nmodule.exports[\\\"dbdd8c14-0312-4ff5-a00c-8ce740f68380\\\"] = __webpack_require__(/*! ./lib/reverser.js */ \\\"./lib/reverser.js\\\")\\n\\n//# sourceURL=webpack://%5Bname%5D/../alva/build/preview/preview-loader.js?\");\n\n/***/ }),\n\n/***/ \"./lib/field.js\":\n/*!**********************!*\\\n  !*** ./lib/field.js ***!\n  \\**********************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"\\nObject.defineProperty(exports, \\\"__esModule\\\", { value: true });\\nconst React = __webpack_require__(/*! react */ \\\"./node_modules/react/index.js\\\");\\nexports.Field = props => {\\n    return (React.createElement(\\\"div\\\", { style: { position: 'absolute', width: '100%', height: '100%' }, onMouseMove: props.onMouseMove }, props.children));\\n};\\nconst style = {\\n    position: 'relative',\\n    display: 'flex',\\n    alignItems: 'center',\\n    justifyContent: 'center',\\n    minHeight: 250,\\n    width: \\\"100%\\\",\\n    border: \\\"5px dashed currentColor\\\",\\n    boxSizing: \\\"border-box\\\",\\n    color: \\\"#999\\\",\\n    fontFamily: \\\"sans-serif\\\",\\n    fontSize: \\\"3em\\\"\\n};\\nexports.FieldContainer = props => {\\n    return (React.createElement(\\\"div\\\", { style: style }, props.children));\\n};\\n//# sourceMappingURL=field.js.map\\n\\n//# sourceURL=webpack://%5Bname%5D/./lib/field.js?\");\n\n/***/ }),\n\n/***/ \"./lib/reverser.js\":\n/*!*************************!*\\\n  !*** ./lib/reverser.js ***!\n  \\*************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"\\nObject.defineProperty(exports, \\\"__esModule\\\", { value: true });\\nconst React = __webpack_require__(/*! react */ \\\"./node_modules/react/index.js\\\");\\nexports.Reverser = props => {\\n    return (React.createElement(\\\"div\\\", null, props.revert\\n        ? props.text\\n            .split(\\\"\\\")\\n            .reverse()\\n            .join(\\\"\\\")\\n        : props.text));\\n};\\n//# sourceMappingURL=reverser.js.map\\n\\n//# sourceURL=webpack://%5Bname%5D/./lib/reverser.js?\");\n\n/***/ }),\n\n/***/ \"./node_modules/object-assign/index.js\":\n/*!*********************************************!*\\\n  !*** ./node_modules/object-assign/index.js ***!\n  \\*********************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"/*\\nobject-assign\\n(c) Sindre Sorhus\\n@license MIT\\n*/\\n\\n\\n/* eslint-disable no-unused-vars */\\nvar getOwnPropertySymbols = Object.getOwnPropertySymbols;\\nvar hasOwnProperty = Object.prototype.hasOwnProperty;\\nvar propIsEnumerable = Object.prototype.propertyIsEnumerable;\\n\\nfunction toObject(val) {\\n\\tif (val === null || val === undefined) {\\n\\t\\tthrow new TypeError('Object.assign cannot be called with null or undefined');\\n\\t}\\n\\n\\treturn Object(val);\\n}\\n\\nfunction shouldUseNative() {\\n\\ttry {\\n\\t\\tif (!Object.assign) {\\n\\t\\t\\treturn false;\\n\\t\\t}\\n\\n\\t\\t// Detect buggy property enumeration order in older V8 versions.\\n\\n\\t\\t// https://bugs.chromium.org/p/v8/issues/detail?id=4118\\n\\t\\tvar test1 = new String('abc');  // eslint-disable-line no-new-wrappers\\n\\t\\ttest1[5] = 'de';\\n\\t\\tif (Object.getOwnPropertyNames(test1)[0] === '5') {\\n\\t\\t\\treturn false;\\n\\t\\t}\\n\\n\\t\\t// https://bugs.chromium.org/p/v8/issues/detail?id=3056\\n\\t\\tvar test2 = {};\\n\\t\\tfor (var i = 0; i < 10; i++) {\\n\\t\\t\\ttest2['_' + String.fromCharCode(i)] = i;\\n\\t\\t}\\n\\t\\tvar order2 = Object.getOwnPropertyNames(test2).map(function (n) {\\n\\t\\t\\treturn test2[n];\\n\\t\\t});\\n\\t\\tif (order2.join('') !== '0123456789') {\\n\\t\\t\\treturn false;\\n\\t\\t}\\n\\n\\t\\t// https://bugs.chromium.org/p/v8/issues/detail?id=3056\\n\\t\\tvar test3 = {};\\n\\t\\t'abcdefghijklmnopqrst'.split('').forEach(function (letter) {\\n\\t\\t\\ttest3[letter] = letter;\\n\\t\\t});\\n\\t\\tif (Object.keys(Object.assign({}, test3)).join('') !==\\n\\t\\t\\t\\t'abcdefghijklmnopqrst') {\\n\\t\\t\\treturn false;\\n\\t\\t}\\n\\n\\t\\treturn true;\\n\\t} catch (err) {\\n\\t\\t// We don't expect any of the above to throw, but better to be safe.\\n\\t\\treturn false;\\n\\t}\\n}\\n\\nmodule.exports = shouldUseNative() ? Object.assign : function (target, source) {\\n\\tvar from;\\n\\tvar to = toObject(target);\\n\\tvar symbols;\\n\\n\\tfor (var s = 1; s < arguments.length; s++) {\\n\\t\\tfrom = Object(arguments[s]);\\n\\n\\t\\tfor (var key in from) {\\n\\t\\t\\tif (hasOwnProperty.call(from, key)) {\\n\\t\\t\\t\\tto[key] = from[key];\\n\\t\\t\\t}\\n\\t\\t}\\n\\n\\t\\tif (getOwnPropertySymbols) {\\n\\t\\t\\tsymbols = getOwnPropertySymbols(from);\\n\\t\\t\\tfor (var i = 0; i < symbols.length; i++) {\\n\\t\\t\\t\\tif (propIsEnumerable.call(from, symbols[i])) {\\n\\t\\t\\t\\t\\tto[symbols[i]] = from[symbols[i]];\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t}\\n\\t}\\n\\n\\treturn to;\\n};\\n\\n\\n//# sourceURL=webpack://%5Bname%5D/./node_modules/object-assign/index.js?\");\n\n/***/ }),\n\n/***/ \"./node_modules/prop-types/checkPropTypes.js\":\n/*!***************************************************!*\\\n  !*** ./node_modules/prop-types/checkPropTypes.js ***!\n  \\***************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"/**\\n * Copyright (c) 2013-present, Facebook, Inc.\\n *\\n * This source code is licensed under the MIT license found in the\\n * LICENSE file in the root directory of this source tree.\\n */\\n\\n\\n\\nvar printWarning = function() {};\\n\\nif (true) {\\n  var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ \\\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\\\");\\n  var loggedTypeFailures = {};\\n\\n  printWarning = function(text) {\\n    var message = 'Warning: ' + text;\\n    if (typeof console !== 'undefined') {\\n      console.error(message);\\n    }\\n    try {\\n      // --- Welcome to debugging React ---\\n      // This error was thrown as a convenience so that you can use this stack\\n      // to find the callsite that caused this warning to fire.\\n      throw new Error(message);\\n    } catch (x) {}\\n  };\\n}\\n\\n/**\\n * Assert that the values match with the type specs.\\n * Error messages are memorized and will only be shown once.\\n *\\n * @param {object} typeSpecs Map of name to a ReactPropType\\n * @param {object} values Runtime values that need to be type-checked\\n * @param {string} location e.g. \\\"prop\\\", \\\"context\\\", \\\"child context\\\"\\n * @param {string} componentName Name of the component for error messages.\\n * @param {?Function} getStack Returns the component stack.\\n * @private\\n */\\nfunction checkPropTypes(typeSpecs, values, location, componentName, getStack) {\\n  if (true) {\\n    for (var typeSpecName in typeSpecs) {\\n      if (typeSpecs.hasOwnProperty(typeSpecName)) {\\n        var error;\\n        // Prop type validation may throw. In case they do, we don't want to\\n        // fail the render phase where it didn't fail before. So we log it.\\n        // After these have been cleaned up, we'll let them throw.\\n        try {\\n          // This is intentionally an invariant that gets caught. It's the same\\n          // behavior as without this statement except with a better message.\\n          if (typeof typeSpecs[typeSpecName] !== 'function') {\\n            var err = Error(\\n              (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +\\n              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'\\n            );\\n            err.name = 'Invariant Violation';\\n            throw err;\\n          }\\n          error = typeSpecs[typeSpecName](values, typeSpecName, componentName, location, null, ReactPropTypesSecret);\\n        } catch (ex) {\\n          error = ex;\\n        }\\n        if (error && !(error instanceof Error)) {\\n          printWarning(\\n            (componentName || 'React class') + ': type specification of ' +\\n            location + ' `' + typeSpecName + '` is invalid; the type checker ' +\\n            'function must return `null` or an `Error` but returned a ' + typeof error + '. ' +\\n            'You may have forgotten to pass an argument to the type checker ' +\\n            'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' +\\n            'shape all require an argument).'\\n          )\\n\\n        }\\n        if (error instanceof Error && !(error.message in loggedTypeFailures)) {\\n          // Only monitor this failure once because there tends to be a lot of the\\n          // same error.\\n          loggedTypeFailures[error.message] = true;\\n\\n          var stack = getStack ? getStack() : '';\\n\\n          printWarning(\\n            'Failed ' + location + ' type: ' + error.message + (stack != null ? stack : '')\\n          );\\n        }\\n      }\\n    }\\n  }\\n}\\n\\nmodule.exports = checkPropTypes;\\n\\n\\n//# sourceURL=webpack://%5Bname%5D/./node_modules/prop-types/checkPropTypes.js?\");\n\n/***/ }),\n\n/***/ \"./node_modules/prop-types/lib/ReactPropTypesSecret.js\":\n/*!*************************************************************!*\\\n  !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!\n  \\*************************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"/**\\n * Copyright (c) 2013-present, Facebook, Inc.\\n *\\n * This source code is licensed under the MIT license found in the\\n * LICENSE file in the root directory of this source tree.\\n */\\n\\n\\n\\nvar ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';\\n\\nmodule.exports = ReactPropTypesSecret;\\n\\n\\n//# sourceURL=webpack://%5Bname%5D/./node_modules/prop-types/lib/ReactPropTypesSecret.js?\");\n\n/***/ }),\n\n/***/ \"./node_modules/react/cjs/react.development.js\":\n/*!*****************************************************!*\\\n  !*** ./node_modules/react/cjs/react.development.js ***!\n  \\*****************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"/** @license React v16.5.2\\n * react.development.js\\n *\\n * Copyright (c) Facebook, Inc. and its affiliates.\\n *\\n * This source code is licensed under the MIT license found in the\\n * LICENSE file in the root directory of this source tree.\\n */\\n\\n\\n\\n\\n\\nif (true) {\\n  (function() {\\n'use strict';\\n\\nvar _assign = __webpack_require__(/*! object-assign */ \\\"./node_modules/object-assign/index.js\\\");\\nvar checkPropTypes = __webpack_require__(/*! prop-types/checkPropTypes */ \\\"./node_modules/prop-types/checkPropTypes.js\\\");\\n\\n// TODO: this is special because it gets imported during build.\\n\\nvar ReactVersion = '16.5.2';\\n\\n// The Symbol used to tag the ReactElement-like types. If there is no native Symbol\\n// nor polyfill, then a plain number is used for performance.\\nvar hasSymbol = typeof Symbol === 'function' && Symbol.for;\\n\\nvar REACT_ELEMENT_TYPE = hasSymbol ? Symbol.for('react.element') : 0xeac7;\\nvar REACT_PORTAL_TYPE = hasSymbol ? Symbol.for('react.portal') : 0xeaca;\\nvar REACT_FRAGMENT_TYPE = hasSymbol ? Symbol.for('react.fragment') : 0xeacb;\\nvar REACT_STRICT_MODE_TYPE = hasSymbol ? Symbol.for('react.strict_mode') : 0xeacc;\\nvar REACT_PROFILER_TYPE = hasSymbol ? Symbol.for('react.profiler') : 0xead2;\\nvar REACT_PROVIDER_TYPE = hasSymbol ? Symbol.for('react.provider') : 0xeacd;\\nvar REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace;\\nvar REACT_ASYNC_MODE_TYPE = hasSymbol ? Symbol.for('react.async_mode') : 0xeacf;\\nvar REACT_FORWARD_REF_TYPE = hasSymbol ? Symbol.for('react.forward_ref') : 0xead0;\\nvar REACT_PLACEHOLDER_TYPE = hasSymbol ? Symbol.for('react.placeholder') : 0xead1;\\n\\nvar MAYBE_ITERATOR_SYMBOL = typeof Symbol === 'function' && Symbol.iterator;\\nvar FAUX_ITERATOR_SYMBOL = '@@iterator';\\n\\nfunction getIteratorFn(maybeIterable) {\\n  if (maybeIterable === null || typeof maybeIterable !== 'object') {\\n    return null;\\n  }\\n  var maybeIterator = MAYBE_ITERATOR_SYMBOL && maybeIterable[MAYBE_ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL];\\n  if (typeof maybeIterator === 'function') {\\n    return maybeIterator;\\n  }\\n  return null;\\n}\\n\\n// Exports ReactDOM.createRoot\\n\\n\\n// Experimental error-boundary API that can recover from errors within a single\\n// render phase\\n\\n// Suspense\\nvar enableSuspense = false;\\n// Helps identify side effects in begin-phase lifecycle hooks and setState reducers:\\n\\n\\n// In some cases, StrictMode should also double-render lifecycles.\\n// This can be confusing for tests though,\\n// And it can be bad for performance in production.\\n// This feature flag can be used to control the behavior:\\n\\n\\n// To preserve the \\\"Pause on caught exceptions\\\" behavior of the debugger, we\\n// replay the begin phase of a failed component inside invokeGuardedCallback.\\n\\n\\n// Warn about deprecated, async-unsafe lifecycles; relates to RFC #6:\\n\\n\\n// Warn about legacy context API\\n\\n\\n// Gather advanced timing metrics for Profiler subtrees.\\n\\n\\n// Trace which interactions trigger each commit.\\n\\n\\n// Only used in www builds.\\n\\n\\n// Only used in www builds.\\n\\n\\n// React Fire: prevent the value and checked attributes from syncing\\n// with their related DOM properties\\n\\n/**\\n * Use invariant() to assert state which your program assumes to be true.\\n *\\n * Provide sprintf-style format (only %s is supported) and arguments\\n * to provide information about what broke and what you were\\n * expecting.\\n *\\n * The invariant message will be stripped in production, but the invariant\\n * will remain to ensure logic does not differ in production.\\n */\\n\\nvar validateFormat = function () {};\\n\\n{\\n  validateFormat = function (format) {\\n    if (format === undefined) {\\n      throw new Error('invariant requires an error message argument');\\n    }\\n  };\\n}\\n\\nfunction invariant(condition, format, a, b, c, d, e, f) {\\n  validateFormat(format);\\n\\n  if (!condition) {\\n    var error = void 0;\\n    if (format === undefined) {\\n      error = new Error('Minified exception occurred; use the non-minified dev environment ' + 'for the full error message and additional helpful warnings.');\\n    } else {\\n      var args = [a, b, c, d, e, f];\\n      var argIndex = 0;\\n      error = new Error(format.replace(/%s/g, function () {\\n        return args[argIndex++];\\n      }));\\n      error.name = 'Invariant Violation';\\n    }\\n\\n    error.framesToPop = 1; // we don't care about invariant's own frame\\n    throw error;\\n  }\\n}\\n\\n// Relying on the `invariant()` implementation lets us\\n// preserve the format and params in the www builds.\\n\\n/**\\n * Forked from fbjs/warning:\\n * https://github.com/facebook/fbjs/blob/e66ba20ad5be433eb54423f2b097d829324d9de6/packages/fbjs/src/__forks__/warning.js\\n *\\n * Only change is we use console.warn instead of console.error,\\n * and do nothing when 'console' is not supported.\\n * This really simplifies the code.\\n * ---\\n * Similar to invariant but only logs a warning if the condition is not met.\\n * This can be used to log issues in development environments in critical\\n * paths. Removing the logging code for production environments will keep the\\n * same logic and follow the same code paths.\\n */\\n\\nvar lowPriorityWarning = function () {};\\n\\n{\\n  var printWarning = function (format) {\\n    for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {\\n      args[_key - 1] = arguments[_key];\\n    }\\n\\n    var argIndex = 0;\\n    var message = 'Warning: ' + format.replace(/%s/g, function () {\\n      return args[argIndex++];\\n    });\\n    if (typeof console !== 'undefined') {\\n      console.warn(message);\\n    }\\n    try {\\n      // --- Welcome to debugging React ---\\n      // This error was thrown as a convenience so that you can use this stack\\n      // to find the callsite that caused this warning to fire.\\n      throw new Error(message);\\n    } catch (x) {}\\n  };\\n\\n  lowPriorityWarning = function (condition, format) {\\n    if (format === undefined) {\\n      throw new Error('`lowPriorityWarning(condition, format, ...args)` requires a warning ' + 'message argument');\\n    }\\n    if (!condition) {\\n      for (var _len2 = arguments.length, args = Array(_len2 > 2 ? _len2 - 2 : 0), _key2 = 2; _key2 < _len2; _key2++) {\\n        args[_key2 - 2] = arguments[_key2];\\n      }\\n\\n      printWarning.apply(undefined, [format].concat(args));\\n    }\\n  };\\n}\\n\\nvar lowPriorityWarning$1 = lowPriorityWarning;\\n\\n/**\\n * Similar to invariant but only logs a warning if the condition is not met.\\n * This can be used to log issues in development environments in critical\\n * paths. Removing the logging code for production environments will keep the\\n * same logic and follow the same code paths.\\n */\\n\\nvar warningWithoutStack = function () {};\\n\\n{\\n  warningWithoutStack = function (condition, format) {\\n    for (var _len = arguments.length, args = Array(_len > 2 ? _len - 2 : 0), _key = 2; _key < _len; _key++) {\\n      args[_key - 2] = arguments[_key];\\n    }\\n\\n    if (format === undefined) {\\n      throw new Error('`warningWithoutStack(condition, format, ...args)` requires a warning ' + 'message argument');\\n    }\\n    if (args.length > 8) {\\n      // Check before the condition to catch violations early.\\n      throw new Error('warningWithoutStack() currently supports at most 8 arguments.');\\n    }\\n    if (condition) {\\n      return;\\n    }\\n    if (typeof console !== 'undefined') {\\n      var _args$map = args.map(function (item) {\\n        return '' + item;\\n      }),\\n          a = _args$map[0],\\n          b = _args$map[1],\\n          c = _args$map[2],\\n          d = _args$map[3],\\n          e = _args$map[4],\\n          f = _args$map[5],\\n          g = _args$map[6],\\n          h = _args$map[7];\\n\\n      var message = 'Warning: ' + format;\\n\\n      // We intentionally don't use spread (or .apply) because it breaks IE9:\\n      // https://github.com/facebook/react/issues/13610\\n      switch (args.length) {\\n        case 0:\\n          console.error(message);\\n          break;\\n        case 1:\\n          console.error(message, a);\\n          break;\\n        case 2:\\n          console.error(message, a, b);\\n          break;\\n        case 3:\\n          console.error(message, a, b, c);\\n          break;\\n        case 4:\\n          console.error(message, a, b, c, d);\\n          break;\\n        case 5:\\n          console.error(message, a, b, c, d, e);\\n          break;\\n        case 6:\\n          console.error(message, a, b, c, d, e, f);\\n          break;\\n        case 7:\\n          console.error(message, a, b, c, d, e, f, g);\\n          break;\\n        case 8:\\n          console.error(message, a, b, c, d, e, f, g, h);\\n          break;\\n        default:\\n          throw new Error('warningWithoutStack() currently supports at most 8 arguments.');\\n      }\\n    }\\n    try {\\n      // --- Welcome to debugging React ---\\n      // This error was thrown as a convenience so that you can use this stack\\n      // to find the callsite that caused this warning to fire.\\n      var argIndex = 0;\\n      var _message = 'Warning: ' + format.replace(/%s/g, function () {\\n        return args[argIndex++];\\n      });\\n      throw new Error(_message);\\n    } catch (x) {}\\n  };\\n}\\n\\nvar warningWithoutStack$1 = warningWithoutStack;\\n\\nvar didWarnStateUpdateForUnmountedComponent = {};\\n\\nfunction warnNoop(publicInstance, callerName) {\\n  {\\n    var _constructor = publicInstance.constructor;\\n    var componentName = _constructor && (_constructor.displayName || _constructor.name) || 'ReactClass';\\n    var warningKey = componentName + '.' + callerName;\\n    if (didWarnStateUpdateForUnmountedComponent[warningKey]) {\\n      return;\\n    }\\n    warningWithoutStack$1(false, \\\"Can't call %s on a component that is not yet mounted. \\\" + 'This is a no-op, but it might indicate a bug in your application. ' + 'Instead, assign to `this.state` directly or define a `state = {};` ' + 'class property with the desired state in the %s component.', callerName, componentName);\\n    didWarnStateUpdateForUnmountedComponent[warningKey] = true;\\n  }\\n}\\n\\n/**\\n * This is the abstract API for an update queue.\\n */\\nvar ReactNoopUpdateQueue = {\\n  /**\\n   * Checks whether or not this composite component is mounted.\\n   * @param {ReactClass} publicInstance The instance we want to test.\\n   * @return {boolean} True if mounted, false otherwise.\\n   * @protected\\n   * @final\\n   */\\n  isMounted: function (publicInstance) {\\n    return false;\\n  },\\n\\n  /**\\n   * Forces an update. This should only be invoked when it is known with\\n   * certainty that we are **not** in a DOM transaction.\\n   *\\n   * You may want to call this when you know that some deeper aspect of the\\n   * component's state has changed but `setState` was not called.\\n   *\\n   * This will not invoke `shouldComponentUpdate`, but it will invoke\\n   * `componentWillUpdate` and `componentDidUpdate`.\\n   *\\n   * @param {ReactClass} publicInstance The instance that should rerender.\\n   * @param {?function} callback Called after component is updated.\\n   * @param {?string} callerName name of the calling function in the public API.\\n   * @internal\\n   */\\n  enqueueForceUpdate: function (publicInstance, callback, callerName) {\\n    warnNoop(publicInstance, 'forceUpdate');\\n  },\\n\\n  /**\\n   * Replaces all of the state. Always use this or `setState` to mutate state.\\n   * You should treat `this.state` as immutable.\\n   *\\n   * There is no guarantee that `this.state` will be immediately updated, so\\n   * accessing `this.state` after calling this method may return the old value.\\n   *\\n   * @param {ReactClass} publicInstance The instance that should rerender.\\n   * @param {object} completeState Next state.\\n   * @param {?function} callback Called after component is updated.\\n   * @param {?string} callerName name of the calling function in the public API.\\n   * @internal\\n   */\\n  enqueueReplaceState: function (publicInstance, completeState, callback, callerName) {\\n    warnNoop(publicInstance, 'replaceState');\\n  },\\n\\n  /**\\n   * Sets a subset of the state. This only exists because _pendingState is\\n   * internal. This provides a merging strategy that is not available to deep\\n   * properties which is confusing. TODO: Expose pendingState or don't use it\\n   * during the merge.\\n   *\\n   * @param {ReactClass} publicInstance The instance that should rerender.\\n   * @param {object} partialState Next partial state to be merged with state.\\n   * @param {?function} callback Called after component is updated.\\n   * @param {?string} Name of the calling function in the public API.\\n   * @internal\\n   */\\n  enqueueSetState: function (publicInstance, partialState, callback, callerName) {\\n    warnNoop(publicInstance, 'setState');\\n  }\\n};\\n\\nvar emptyObject = {};\\n{\\n  Object.freeze(emptyObject);\\n}\\n\\n/**\\n * Base class helpers for the updating state of a component.\\n */\\nfunction Component(props, context, updater) {\\n  this.props = props;\\n  this.context = context;\\n  // If a component has string refs, we will assign a different object later.\\n  this.refs = emptyObject;\\n  // We initialize the default updater but the real one gets injected by the\\n  // renderer.\\n  this.updater = updater || ReactNoopUpdateQueue;\\n}\\n\\nComponent.prototype.isReactComponent = {};\\n\\n/**\\n * Sets a subset of the state. Always use this to mutate\\n * state. You should treat `this.state` as immutable.\\n *\\n * There is no guarantee that `this.state` will be immediately updated, so\\n * accessing `this.state` after calling this method may return the old value.\\n *\\n * There is no guarantee that calls to `setState` will run synchronously,\\n * as they may eventually be batched together.  You can provide an optional\\n * callback that will be executed when the call to setState is actually\\n * completed.\\n *\\n * When a function is provided to setState, it will be called at some point in\\n * the future (not synchronously). It will be called with the up to date\\n * component arguments (state, props, context). These values can be different\\n * from this.* because your function may be called after receiveProps but before\\n * shouldComponentUpdate, and this new state, props, and context will not yet be\\n * assigned to this.\\n *\\n * @param {object|function} partialState Next partial state or function to\\n *        produce next partial state to be merged with current state.\\n * @param {?function} callback Called after state is updated.\\n * @final\\n * @protected\\n */\\nComponent.prototype.setState = function (partialState, callback) {\\n  !(typeof partialState === 'object' || typeof partialState === 'function' || partialState == null) ? invariant(false, 'setState(...): takes an object of state variables to update or a function which returns an object of state variables.') : void 0;\\n  this.updater.enqueueSetState(this, partialState, callback, 'setState');\\n};\\n\\n/**\\n * Forces an update. This should only be invoked when it is known with\\n * certainty that we are **not** in a DOM transaction.\\n *\\n * You may want to call this when you know that some deeper aspect of the\\n * component's state has changed but `setState` was not called.\\n *\\n * This will not invoke `shouldComponentUpdate`, but it will invoke\\n * `componentWillUpdate` and `componentDidUpdate`.\\n *\\n * @param {?function} callback Called after update is complete.\\n * @final\\n * @protected\\n */\\nComponent.prototype.forceUpdate = function (callback) {\\n  this.updater.enqueueForceUpdate(this, callback, 'forceUpdate');\\n};\\n\\n/**\\n * Deprecated APIs. These APIs used to exist on classic React classes but since\\n * we would like to deprecate them, we're not going to move them over to this\\n * modern base class. Instead, we define a getter that warns if it's accessed.\\n */\\n{\\n  var deprecatedAPIs = {\\n    isMounted: ['isMounted', 'Instead, make sure to clean up subscriptions and pending requests in ' + 'componentWillUnmount to prevent memory leaks.'],\\n    replaceState: ['replaceState', 'Refactor your code to use setState instead (see ' + 'https://github.com/facebook/react/issues/3236).']\\n  };\\n  var defineDeprecationWarning = function (methodName, info) {\\n    Object.defineProperty(Component.prototype, methodName, {\\n      get: function () {\\n        lowPriorityWarning$1(false, '%s(...) is deprecated in plain JavaScript React classes. %s', info[0], info[1]);\\n        return undefined;\\n      }\\n    });\\n  };\\n  for (var fnName in deprecatedAPIs) {\\n    if (deprecatedAPIs.hasOwnProperty(fnName)) {\\n      defineDeprecationWarning(fnName, deprecatedAPIs[fnName]);\\n    }\\n  }\\n}\\n\\nfunction ComponentDummy() {}\\nComponentDummy.prototype = Component.prototype;\\n\\n/**\\n * Convenience component with default shallow equality check for sCU.\\n */\\nfunction PureComponent(props, context, updater) {\\n  this.props = props;\\n  this.context = context;\\n  // If a component has string refs, we will assign a different object later.\\n  this.refs = emptyObject;\\n  this.updater = updater || ReactNoopUpdateQueue;\\n}\\n\\nvar pureComponentPrototype = PureComponent.prototype = new ComponentDummy();\\npureComponentPrototype.constructor = PureComponent;\\n// Avoid an extra prototype jump for these methods.\\n_assign(pureComponentPrototype, Component.prototype);\\npureComponentPrototype.isPureReactComponent = true;\\n\\n// an immutable object with a single mutable value\\nfunction createRef() {\\n  var refObject = {\\n    current: null\\n  };\\n  {\\n    Object.seal(refObject);\\n  }\\n  return refObject;\\n}\\n\\n/**\\n * Keeps track of the current owner.\\n *\\n * The current owner is the component who should own any components that are\\n * currently being constructed.\\n */\\nvar ReactCurrentOwner = {\\n  /**\\n   * @internal\\n   * @type {ReactComponent}\\n   */\\n  current: null,\\n  currentDispatcher: null\\n};\\n\\nvar BEFORE_SLASH_RE = /^(.*)[\\\\\\\\\\\\/]/;\\n\\nvar describeComponentFrame = function (name, source, ownerName) {\\n  var sourceInfo = '';\\n  if (source) {\\n    var path = source.fileName;\\n    var fileName = path.replace(BEFORE_SLASH_RE, '');\\n    {\\n      // In DEV, include code for a common special case:\\n      // prefer \\\"folder/index.js\\\" instead of just \\\"index.js\\\".\\n      if (/^index\\\\./.test(fileName)) {\\n        var match = path.match(BEFORE_SLASH_RE);\\n        if (match) {\\n          var pathBeforeSlash = match[1];\\n          if (pathBeforeSlash) {\\n            var folderName = pathBeforeSlash.replace(BEFORE_SLASH_RE, '');\\n            fileName = folderName + '/' + fileName;\\n          }\\n        }\\n      }\\n    }\\n    sourceInfo = ' (at ' + fileName + ':' + source.lineNumber + ')';\\n  } else if (ownerName) {\\n    sourceInfo = ' (created by ' + ownerName + ')';\\n  }\\n  return '\\\\n    in ' + (name || 'Unknown') + sourceInfo;\\n};\\n\\nvar Resolved = 1;\\n\\n\\n\\n\\nfunction refineResolvedThenable(thenable) {\\n  return thenable._reactStatus === Resolved ? thenable._reactResult : null;\\n}\\n\\nfunction getComponentName(type) {\\n  if (type == null) {\\n    // Host root, text node or just invalid type.\\n    return null;\\n  }\\n  {\\n    if (typeof type.tag === 'number') {\\n      warningWithoutStack$1(false, 'Received an unexpected object in getComponentName(). ' + 'This is likely a bug in React. Please file an issue.');\\n    }\\n  }\\n  if (typeof type === 'function') {\\n    return type.displayName || type.name || null;\\n  }\\n  if (typeof type === 'string') {\\n    return type;\\n  }\\n  switch (type) {\\n    case REACT_ASYNC_MODE_TYPE:\\n      return 'AsyncMode';\\n    case REACT_FRAGMENT_TYPE:\\n      return 'Fragment';\\n    case REACT_PORTAL_TYPE:\\n      return 'Portal';\\n    case REACT_PROFILER_TYPE:\\n      return 'Profiler';\\n    case REACT_STRICT_MODE_TYPE:\\n      return 'StrictMode';\\n    case REACT_PLACEHOLDER_TYPE:\\n      return 'Placeholder';\\n  }\\n  if (typeof type === 'object') {\\n    switch (type.$$typeof) {\\n      case REACT_CONTEXT_TYPE:\\n        return 'Context.Consumer';\\n      case REACT_PROVIDER_TYPE:\\n        return 'Context.Provider';\\n      case REACT_FORWARD_REF_TYPE:\\n        var renderFn = type.render;\\n        var functionName = renderFn.displayName || renderFn.name || '';\\n        return type.displayName || (functionName !== '' ? 'ForwardRef(' + functionName + ')' : 'ForwardRef');\\n    }\\n    if (typeof type.then === 'function') {\\n      var thenable = type;\\n      var resolvedThenable = refineResolvedThenable(thenable);\\n      if (resolvedThenable) {\\n        return getComponentName(resolvedThenable);\\n      }\\n    }\\n  }\\n  return null;\\n}\\n\\nvar ReactDebugCurrentFrame = {};\\n\\nvar currentlyValidatingElement = null;\\n\\nfunction setCurrentlyValidatingElement(element) {\\n  {\\n    currentlyValidatingElement = element;\\n  }\\n}\\n\\n{\\n  // Stack implementation injected by the current renderer.\\n  ReactDebugCurrentFrame.getCurrentStack = null;\\n\\n  ReactDebugCurrentFrame.getStackAddendum = function () {\\n    var stack = '';\\n\\n    // Add an extra top frame while an element is being validated\\n    if (currentlyValidatingElement) {\\n      var name = getComponentName(currentlyValidatingElement.type);\\n      var owner = currentlyValidatingElement._owner;\\n      stack += describeComponentFrame(name, currentlyValidatingElement._source, owner && getComponentName(owner.type));\\n    }\\n\\n    // Delegate to the injected renderer-specific implementation\\n    var impl = ReactDebugCurrentFrame.getCurrentStack;\\n    if (impl) {\\n      stack += impl() || '';\\n    }\\n\\n    return stack;\\n  };\\n}\\n\\nvar ReactSharedInternals = {\\n  ReactCurrentOwner: ReactCurrentOwner,\\n  // Used by renderers to avoid bundling object-assign twice in UMD bundles:\\n  assign: _assign\\n};\\n\\n{\\n  _assign(ReactSharedInternals, {\\n    // These should not be included in production.\\n    ReactDebugCurrentFrame: ReactDebugCurrentFrame,\\n    // Shim for React DOM 16.0.0 which still destructured (but not used) this.\\n    // TODO: remove in React 17.0.\\n    ReactComponentTreeHook: {}\\n  });\\n}\\n\\n/**\\n * Similar to invariant but only logs a warning if the condition is not met.\\n * This can be used to log issues in development environments in critical\\n * paths. Removing the logging code for production environments will keep the\\n * same logic and follow the same code paths.\\n */\\n\\nvar warning = warningWithoutStack$1;\\n\\n{\\n  warning = function (condition, format) {\\n    if (condition) {\\n      return;\\n    }\\n    var ReactDebugCurrentFrame = ReactSharedInternals.ReactDebugCurrentFrame;\\n    var stack = ReactDebugCurrentFrame.getStackAddendum();\\n    // eslint-disable-next-line react-internal/warning-and-invariant-args\\n\\n    for (var _len = arguments.length, args = Array(_len > 2 ? _len - 2 : 0), _key = 2; _key < _len; _key++) {\\n      args[_key - 2] = arguments[_key];\\n    }\\n\\n    warningWithoutStack$1.apply(undefined, [false, format + '%s'].concat(args, [stack]));\\n  };\\n}\\n\\nvar warning$1 = warning;\\n\\nvar hasOwnProperty = Object.prototype.hasOwnProperty;\\n\\nvar RESERVED_PROPS = {\\n  key: true,\\n  ref: true,\\n  __self: true,\\n  __source: true\\n};\\n\\nvar specialPropKeyWarningShown = void 0;\\nvar specialPropRefWarningShown = void 0;\\n\\nfunction hasValidRef(config) {\\n  {\\n    if (hasOwnProperty.call(config, 'ref')) {\\n      var getter = Object.getOwnPropertyDescriptor(config, 'ref').get;\\n      if (getter && getter.isReactWarning) {\\n        return false;\\n      }\\n    }\\n  }\\n  return config.ref !== undefined;\\n}\\n\\nfunction hasValidKey(config) {\\n  {\\n    if (hasOwnProperty.call(config, 'key')) {\\n      var getter = Object.getOwnPropertyDescriptor(config, 'key').get;\\n      if (getter && getter.isReactWarning) {\\n        return false;\\n      }\\n    }\\n  }\\n  return config.key !== undefined;\\n}\\n\\nfunction defineKeyPropWarningGetter(props, displayName) {\\n  var warnAboutAccessingKey = function () {\\n    if (!specialPropKeyWarningShown) {\\n      specialPropKeyWarningShown = true;\\n      warningWithoutStack$1(false, '%s: `key` is not a prop. Trying to access it will result ' + 'in `undefined` being returned. If you need to access the same ' + 'value within the child component, you should pass it as a different ' + 'prop. (https://fb.me/react-special-props)', displayName);\\n    }\\n  };\\n  warnAboutAccessingKey.isReactWarning = true;\\n  Object.defineProperty(props, 'key', {\\n    get: warnAboutAccessingKey,\\n    configurable: true\\n  });\\n}\\n\\nfunction defineRefPropWarningGetter(props, displayName) {\\n  var warnAboutAccessingRef = function () {\\n    if (!specialPropRefWarningShown) {\\n      specialPropRefWarningShown = true;\\n      warningWithoutStack$1(false, '%s: `ref` is not a prop. Trying to access it will result ' + 'in `undefined` being returned. If you need to access the same ' + 'value within the child component, you should pass it as a different ' + 'prop. (https://fb.me/react-special-props)', displayName);\\n    }\\n  };\\n  warnAboutAccessingRef.isReactWarning = true;\\n  Object.defineProperty(props, 'ref', {\\n    get: warnAboutAccessingRef,\\n    configurable: true\\n  });\\n}\\n\\n/**\\n * Factory method to create a new React element. This no longer adheres to\\n * the class pattern, so do not use new to call it. Also, no instanceof check\\n * will work. Instead test $$typeof field against Symbol.for('react.element') to check\\n * if something is a React Element.\\n *\\n * @param {*} type\\n * @param {*} key\\n * @param {string|object} ref\\n * @param {*} self A *temporary* helper to detect places where `this` is\\n * different from the `owner` when React.createElement is called, so that we\\n * can warn. We want to get rid of owner and replace string `ref`s with arrow\\n * functions, and as long as `this` and owner are the same, there will be no\\n * change in behavior.\\n * @param {*} source An annotation object (added by a transpiler or otherwise)\\n * indicating filename, line number, and/or other information.\\n * @param {*} owner\\n * @param {*} props\\n * @internal\\n */\\nvar ReactElement = function (type, key, ref, self, source, owner, props) {\\n  var element = {\\n    // This tag allows us to uniquely identify this as a React Element\\n    $$typeof: REACT_ELEMENT_TYPE,\\n\\n    // Built-in properties that belong on the element\\n    type: type,\\n    key: key,\\n    ref: ref,\\n    props: props,\\n\\n    // Record the component responsible for creating this element.\\n    _owner: owner\\n  };\\n\\n  {\\n    // The validation flag is currently mutative. We put it on\\n    // an external backing store so that we can freeze the whole object.\\n    // This can be replaced with a WeakMap once they are implemented in\\n    // commonly used development environments.\\n    element._store = {};\\n\\n    // To make comparing ReactElements easier for testing purposes, we make\\n    // the validation flag non-enumerable (where possible, which should\\n    // include every environment we run tests in), so the test framework\\n    // ignores it.\\n    Object.defineProperty(element._store, 'validated', {\\n      configurable: false,\\n      enumerable: false,\\n      writable: true,\\n      value: false\\n    });\\n    // self and source are DEV only properties.\\n    Object.defineProperty(element, '_self', {\\n      configurable: false,\\n      enumerable: false,\\n      writable: false,\\n      value: self\\n    });\\n    // Two elements created in two different places should be considered\\n    // equal for testing purposes and therefore we hide it from enumeration.\\n    Object.defineProperty(element, '_source', {\\n      configurable: false,\\n      enumerable: false,\\n      writable: false,\\n      value: source\\n    });\\n    if (Object.freeze) {\\n      Object.freeze(element.props);\\n      Object.freeze(element);\\n    }\\n  }\\n\\n  return element;\\n};\\n\\n/**\\n * Create and return a new ReactElement of the given type.\\n * See https://reactjs.org/docs/react-api.html#createelement\\n */\\nfunction createElement(type, config, children) {\\n  var propName = void 0;\\n\\n  // Reserved names are extracted\\n  var props = {};\\n\\n  var key = null;\\n  var ref = null;\\n  var self = null;\\n  var source = null;\\n\\n  if (config != null) {\\n    if (hasValidRef(config)) {\\n      ref = config.ref;\\n    }\\n    if (hasValidKey(config)) {\\n      key = '' + config.key;\\n    }\\n\\n    self = config.__self === undefined ? null : config.__self;\\n    source = config.__source === undefined ? null : config.__source;\\n    // Remaining properties are added to a new props object\\n    for (propName in config) {\\n      if (hasOwnProperty.call(config, propName) && !RESERVED_PROPS.hasOwnProperty(propName)) {\\n        props[propName] = config[propName];\\n      }\\n    }\\n  }\\n\\n  // Children can be more than one argument, and those are transferred onto\\n  // the newly allocated props object.\\n  var childrenLength = arguments.length - 2;\\n  if (childrenLength === 1) {\\n    props.children = children;\\n  } else if (childrenLength > 1) {\\n    var childArray = Array(childrenLength);\\n    for (var i = 0; i < childrenLength; i++) {\\n      childArray[i] = arguments[i + 2];\\n    }\\n    {\\n      if (Object.freeze) {\\n        Object.freeze(childArray);\\n      }\\n    }\\n    props.children = childArray;\\n  }\\n\\n  // Resolve default props\\n  if (type && type.defaultProps) {\\n    var defaultProps = type.defaultProps;\\n    for (propName in defaultProps) {\\n      if (props[propName] === undefined) {\\n        props[propName] = defaultProps[propName];\\n      }\\n    }\\n  }\\n  {\\n    if (key || ref) {\\n      var displayName = typeof type === 'function' ? type.displayName || type.name || 'Unknown' : type;\\n      if (key) {\\n        defineKeyPropWarningGetter(props, displayName);\\n      }\\n      if (ref) {\\n        defineRefPropWarningGetter(props, displayName);\\n      }\\n    }\\n  }\\n  return ReactElement(type, key, ref, self, source, ReactCurrentOwner.current, props);\\n}\\n\\n/**\\n * Return a function that produces ReactElements of a given type.\\n * See https://reactjs.org/docs/react-api.html#createfactory\\n */\\n\\n\\nfunction cloneAndReplaceKey(oldElement, newKey) {\\n  var newElement = ReactElement(oldElement.type, newKey, oldElement.ref, oldElement._self, oldElement._source, oldElement._owner, oldElement.props);\\n\\n  return newElement;\\n}\\n\\n/**\\n * Clone and return a new ReactElement using element as the starting point.\\n * See https://reactjs.org/docs/react-api.html#cloneelement\\n */\\nfunction cloneElement(element, config, children) {\\n  !!(element === null || element === undefined) ? invariant(false, 'React.cloneElement(...): The argument must be a React element, but you passed %s.', element) : void 0;\\n\\n  var propName = void 0;\\n\\n  // Original props are copied\\n  var props = _assign({}, element.props);\\n\\n  // Reserved names are extracted\\n  var key = element.key;\\n  var ref = element.ref;\\n  // Self is preserved since the owner is preserved.\\n  var self = element._self;\\n  // Source is preserved since cloneElement is unlikely to be targeted by a\\n  // transpiler, and the original source is probably a better indicator of the\\n  // true owner.\\n  var source = element._source;\\n\\n  // Owner will be preserved, unless ref is overridden\\n  var owner = element._owner;\\n\\n  if (config != null) {\\n    if (hasValidRef(config)) {\\n      // Silently steal the ref from the parent.\\n      ref = config.ref;\\n      owner = ReactCurrentOwner.current;\\n    }\\n    if (hasValidKey(config)) {\\n      key = '' + config.key;\\n    }\\n\\n    // Remaining properties override existing props\\n    var defaultProps = void 0;\\n    if (element.type && element.type.defaultProps) {\\n      defaultProps = element.type.defaultProps;\\n    }\\n    for (propName in config) {\\n      if (hasOwnProperty.call(config, propName) && !RESERVED_PROPS.hasOwnProperty(propName)) {\\n        if (config[propName] === undefined && defaultProps !== undefined) {\\n          // Resolve default props\\n          props[propName] = defaultProps[propName];\\n        } else {\\n          props[propName] = config[propName];\\n        }\\n      }\\n    }\\n  }\\n\\n  // Children can be more than one argument, and those are transferred onto\\n  // the newly allocated props object.\\n  var childrenLength = arguments.length - 2;\\n  if (childrenLength === 1) {\\n    props.children = children;\\n  } else if (childrenLength > 1) {\\n    var childArray = Array(childrenLength);\\n    for (var i = 0; i < childrenLength; i++) {\\n      childArray[i] = arguments[i + 2];\\n    }\\n    props.children = childArray;\\n  }\\n\\n  return ReactElement(element.type, key, ref, self, source, owner, props);\\n}\\n\\n/**\\n * Verifies the object is a ReactElement.\\n * See https://reactjs.org/docs/react-api.html#isvalidelement\\n * @param {?object} object\\n * @return {boolean} True if `object` is a ReactElement.\\n * @final\\n */\\nfunction isValidElement(object) {\\n  return typeof object === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;\\n}\\n\\nvar SEPARATOR = '.';\\nvar SUBSEPARATOR = ':';\\n\\n/**\\n * Escape and wrap key so it is safe to use as a reactid\\n *\\n * @param {string} key to be escaped.\\n * @return {string} the escaped key.\\n */\\nfunction escape(key) {\\n  var escapeRegex = /[=:]/g;\\n  var escaperLookup = {\\n    '=': '=0',\\n    ':': '=2'\\n  };\\n  var escapedString = ('' + key).replace(escapeRegex, function (match) {\\n    return escaperLookup[match];\\n  });\\n\\n  return '$' + escapedString;\\n}\\n\\n/**\\n * TODO: Test that a single child and an array with one item have the same key\\n * pattern.\\n */\\n\\nvar didWarnAboutMaps = false;\\n\\nvar userProvidedKeyEscapeRegex = /\\\\/+/g;\\nfunction escapeUserProvidedKey(text) {\\n  return ('' + text).replace(userProvidedKeyEscapeRegex, '$&/');\\n}\\n\\nvar POOL_SIZE = 10;\\nvar traverseContextPool = [];\\nfunction getPooledTraverseContext(mapResult, keyPrefix, mapFunction, mapContext) {\\n  if (traverseContextPool.length) {\\n    var traverseContext = traverseContextPool.pop();\\n    traverseContext.result = mapResult;\\n    traverseContext.keyPrefix = keyPrefix;\\n    traverseContext.func = mapFunction;\\n    traverseContext.context = mapContext;\\n    traverseContext.count = 0;\\n    return traverseContext;\\n  } else {\\n    return {\\n      result: mapResult,\\n      keyPrefix: keyPrefix,\\n      func: mapFunction,\\n      context: mapContext,\\n      count: 0\\n    };\\n  }\\n}\\n\\nfunction releaseTraverseContext(traverseContext) {\\n  traverseContext.result = null;\\n  traverseContext.keyPrefix = null;\\n  traverseContext.func = null;\\n  traverseContext.context = null;\\n  traverseContext.count = 0;\\n  if (traverseContextPool.length < POOL_SIZE) {\\n    traverseContextPool.push(traverseContext);\\n  }\\n}\\n\\n/**\\n * @param {?*} children Children tree container.\\n * @param {!string} nameSoFar Name of the key path so far.\\n * @param {!function} callback Callback to invoke with each child found.\\n * @param {?*} traverseContext Used to pass information throughout the traversal\\n * process.\\n * @return {!number} The number of children in this subtree.\\n */\\nfunction traverseAllChildrenImpl(children, nameSoFar, callback, traverseContext) {\\n  var type = typeof children;\\n\\n  if (type === 'undefined' || type === 'boolean') {\\n    // All of the above are perceived as null.\\n    children = null;\\n  }\\n\\n  var invokeCallback = false;\\n\\n  if (children === null) {\\n    invokeCallback = true;\\n  } else {\\n    switch (type) {\\n      case 'string':\\n      case 'number':\\n        invokeCallback = true;\\n        break;\\n      case 'object':\\n        switch (children.$$typeof) {\\n          case REACT_ELEMENT_TYPE:\\n          case REACT_PORTAL_TYPE:\\n            invokeCallback = true;\\n        }\\n    }\\n  }\\n\\n  if (invokeCallback) {\\n    callback(traverseContext, children,\\n    // If it's the only child, treat the name as if it was wrapped in an array\\n    // so that it's consistent if the number of children grows.\\n    nameSoFar === '' ? SEPARATOR + getComponentKey(children, 0) : nameSoFar);\\n    return 1;\\n  }\\n\\n  var child = void 0;\\n  var nextName = void 0;\\n  var subtreeCount = 0; // Count of children found in the current subtree.\\n  var nextNamePrefix = nameSoFar === '' ? SEPARATOR : nameSoFar + SUBSEPARATOR;\\n\\n  if (Array.isArray(children)) {\\n    for (var i = 0; i < children.length; i++) {\\n      child = children[i];\\n      nextName = nextNamePrefix + getComponentKey(child, i);\\n      subtreeCount += traverseAllChildrenImpl(child, nextName, callback, traverseContext);\\n    }\\n  } else {\\n    var iteratorFn = getIteratorFn(children);\\n    if (typeof iteratorFn === 'function') {\\n      {\\n        // Warn about using Maps as children\\n        if (iteratorFn === children.entries) {\\n          !didWarnAboutMaps ? warning$1(false, 'Using Maps as children is unsupported and will likely yield ' + 'unexpected results. Convert it to a sequence/iterable of keyed ' + 'ReactElements instead.') : void 0;\\n          didWarnAboutMaps = true;\\n        }\\n      }\\n\\n      var iterator = iteratorFn.call(children);\\n      var step = void 0;\\n      var ii = 0;\\n      while (!(step = iterator.next()).done) {\\n        child = step.value;\\n        nextName = nextNamePrefix + getComponentKey(child, ii++);\\n        subtreeCount += traverseAllChildrenImpl(child, nextName, callback, traverseContext);\\n      }\\n    } else if (type === 'object') {\\n      var addendum = '';\\n      {\\n        addendum = ' If you meant to render a collection of children, use an array ' + 'instead.' + ReactDebugCurrentFrame.getStackAddendum();\\n      }\\n      var childrenString = '' + children;\\n      invariant(false, 'Objects are not valid as a React child (found: %s).%s', childrenString === '[object Object]' ? 'object with keys {' + Object.keys(children).join(', ') + '}' : childrenString, addendum);\\n    }\\n  }\\n\\n  return subtreeCount;\\n}\\n\\n/**\\n * Traverses children that are typically specified as `props.children`, but\\n * might also be specified through attributes:\\n *\\n * - `traverseAllChildren(this.props.children, ...)`\\n * - `traverseAllChildren(this.props.leftPanelChildren, ...)`\\n *\\n * The `traverseContext` is an optional argument that is passed through the\\n * entire traversal. It can be used to store accumulations or anything else that\\n * the callback might find relevant.\\n *\\n * @param {?*} children Children tree object.\\n * @param {!function} callback To invoke upon traversing each child.\\n * @param {?*} traverseContext Context for traversal.\\n * @return {!number} The number of children in this subtree.\\n */\\nfunction traverseAllChildren(children, callback, traverseContext) {\\n  if (children == null) {\\n    return 0;\\n  }\\n\\n  return traverseAllChildrenImpl(children, '', callback, traverseContext);\\n}\\n\\n/**\\n * Generate a key string that identifies a component within a set.\\n *\\n * @param {*} component A component that could contain a manual key.\\n * @param {number} index Index that is used if a manual key is not provided.\\n * @return {string}\\n */\\nfunction getComponentKey(component, index) {\\n  // Do some typechecking here since we call this blindly. We want to ensure\\n  // that we don't block potential future ES APIs.\\n  if (typeof component === 'object' && component !== null && component.key != null) {\\n    // Explicit key\\n    return escape(component.key);\\n  }\\n  // Implicit key determined by the index in the set\\n  return index.toString(36);\\n}\\n\\nfunction forEachSingleChild(bookKeeping, child, name) {\\n  var func = bookKeeping.func,\\n      context = bookKeeping.context;\\n\\n  func.call(context, child, bookKeeping.count++);\\n}\\n\\n/**\\n * Iterates through children that are typically specified as `props.children`.\\n *\\n * See https://reactjs.org/docs/react-api.html#reactchildrenforeach\\n *\\n * The provided forEachFunc(child, index) will be called for each\\n * leaf child.\\n *\\n * @param {?*} children Children tree container.\\n * @param {function(*, int)} forEachFunc\\n * @param {*} forEachContext Context for forEachContext.\\n */\\nfunction forEachChildren(children, forEachFunc, forEachContext) {\\n  if (children == null) {\\n    return children;\\n  }\\n  var traverseContext = getPooledTraverseContext(null, null, forEachFunc, forEachContext);\\n  traverseAllChildren(children, forEachSingleChild, traverseContext);\\n  releaseTraverseContext(traverseContext);\\n}\\n\\nfunction mapSingleChildIntoContext(bookKeeping, child, childKey) {\\n  var result = bookKeeping.result,\\n      keyPrefix = bookKeeping.keyPrefix,\\n      func = bookKeeping.func,\\n      context = bookKeeping.context;\\n\\n\\n  var mappedChild = func.call(context, child, bookKeeping.count++);\\n  if (Array.isArray(mappedChild)) {\\n    mapIntoWithKeyPrefixInternal(mappedChild, result, childKey, function (c) {\\n      return c;\\n    });\\n  } else if (mappedChild != null) {\\n    if (isValidElement(mappedChild)) {\\n      mappedChild = cloneAndReplaceKey(mappedChild,\\n      // Keep both the (mapped) and old keys if they differ, just as\\n      // traverseAllChildren used to do for objects as children\\n      keyPrefix + (mappedChild.key && (!child || child.key !== mappedChild.key) ? escapeUserProvidedKey(mappedChild.key) + '/' : '') + childKey);\\n    }\\n    result.push(mappedChild);\\n  }\\n}\\n\\nfunction mapIntoWithKeyPrefixInternal(children, array, prefix, func, context) {\\n  var escapedPrefix = '';\\n  if (prefix != null) {\\n    escapedPrefix = escapeUserProvidedKey(prefix) + '/';\\n  }\\n  var traverseContext = getPooledTraverseContext(array, escapedPrefix, func, context);\\n  traverseAllChildren(children, mapSingleChildIntoContext, traverseContext);\\n  releaseTraverseContext(traverseContext);\\n}\\n\\n/**\\n * Maps children that are typically specified as `props.children`.\\n *\\n * See https://reactjs.org/docs/react-api.html#reactchildrenmap\\n *\\n * The provided mapFunction(child, key, index) will be called for each\\n * leaf child.\\n *\\n * @param {?*} children Children tree container.\\n * @param {function(*, int)} func The map function.\\n * @param {*} context Context for mapFunction.\\n * @return {object} Object containing the ordered map of results.\\n */\\nfunction mapChildren(children, func, context) {\\n  if (children == null) {\\n    return children;\\n  }\\n  var result = [];\\n  mapIntoWithKeyPrefixInternal(children, result, null, func, context);\\n  return result;\\n}\\n\\n/**\\n * Count the number of children that are typically specified as\\n * `props.children`.\\n *\\n * See https://reactjs.org/docs/react-api.html#reactchildrencount\\n *\\n * @param {?*} children Children tree container.\\n * @return {number} The number of children.\\n */\\nfunction countChildren(children) {\\n  return traverseAllChildren(children, function () {\\n    return null;\\n  }, null);\\n}\\n\\n/**\\n * Flatten a children object (typically specified as `props.children`) and\\n * return an array with appropriately re-keyed children.\\n *\\n * See https://reactjs.org/docs/react-api.html#reactchildrentoarray\\n */\\nfunction toArray(children) {\\n  var result = [];\\n  mapIntoWithKeyPrefixInternal(children, result, null, function (child) {\\n    return child;\\n  });\\n  return result;\\n}\\n\\n/**\\n * Returns the first child in a collection of children and verifies that there\\n * is only one child in the collection.\\n *\\n * See https://reactjs.org/docs/react-api.html#reactchildrenonly\\n *\\n * The current implementation of this function assumes that a single child gets\\n * passed without a wrapper, but the purpose of this helper function is to\\n * abstract away the particular structure of children.\\n *\\n * @param {?object} children Child collection structure.\\n * @return {ReactElement} The first and only `ReactElement` contained in the\\n * structure.\\n */\\nfunction onlyChild(children) {\\n  !isValidElement(children) ? invariant(false, 'React.Children.only expected to receive a single React element child.') : void 0;\\n  return children;\\n}\\n\\nfunction readContext(context, observedBits) {\\n  var dispatcher = ReactCurrentOwner.currentDispatcher;\\n  !(dispatcher !== null) ? invariant(false, 'Context.unstable_read(): Context can only be read while React is rendering, e.g. inside the render method or getDerivedStateFromProps.') : void 0;\\n  return dispatcher.readContext(context, observedBits);\\n}\\n\\nfunction createContext(defaultValue, calculateChangedBits) {\\n  if (calculateChangedBits === undefined) {\\n    calculateChangedBits = null;\\n  } else {\\n    {\\n      !(calculateChangedBits === null || typeof calculateChangedBits === 'function') ? warningWithoutStack$1(false, 'createContext: Expected the optional second argument to be a ' + 'function. Instead received: %s', calculateChangedBits) : void 0;\\n    }\\n  }\\n\\n  var context = {\\n    $$typeof: REACT_CONTEXT_TYPE,\\n    _calculateChangedBits: calculateChangedBits,\\n    // As a workaround to support multiple concurrent renderers, we categorize\\n    // some renderers as primary and others as secondary. We only expect\\n    // there to be two concurrent renderers at most: React Native (primary) and\\n    // Fabric (secondary); React DOM (primary) and React ART (secondary).\\n    // Secondary renderers store their context values on separate fields.\\n    _currentValue: defaultValue,\\n    _currentValue2: defaultValue,\\n    // These are circular\\n    Provider: null,\\n    Consumer: null,\\n    unstable_read: null\\n  };\\n\\n  context.Provider = {\\n    $$typeof: REACT_PROVIDER_TYPE,\\n    _context: context\\n  };\\n  context.Consumer = context;\\n  context.unstable_read = readContext.bind(null, context);\\n\\n  {\\n    context._currentRenderer = null;\\n    context._currentRenderer2 = null;\\n  }\\n\\n  return context;\\n}\\n\\nfunction lazy(ctor) {\\n  var thenable = null;\\n  return {\\n    then: function (resolve, reject) {\\n      if (thenable === null) {\\n        // Lazily create thenable by wrapping in an extra thenable.\\n        thenable = ctor();\\n        ctor = null;\\n      }\\n      return thenable.then(resolve, reject);\\n    },\\n\\n    // React uses these fields to store the result.\\n    _reactStatus: -1,\\n    _reactResult: null\\n  };\\n}\\n\\nfunction forwardRef(render) {\\n  {\\n    if (typeof render !== 'function') {\\n      warningWithoutStack$1(false, 'forwardRef requires a render function but was given %s.', render === null ? 'null' : typeof render);\\n    } else {\\n      !(\\n      // Do not warn for 0 arguments because it could be due to usage of the 'arguments' object\\n      render.length === 0 || render.length === 2) ? warningWithoutStack$1(false, 'forwardRef render functions accept exactly two parameters: props and ref. %s', render.length === 1 ? 'Did you forget to use the ref parameter?' : 'Any additional parameter will be undefined.') : void 0;\\n    }\\n\\n    if (render != null) {\\n      !(render.defaultProps == null && render.propTypes == null) ? warningWithoutStack$1(false, 'forwardRef render functions do not support propTypes or defaultProps. ' + 'Did you accidentally pass a React component?') : void 0;\\n    }\\n  }\\n\\n  return {\\n    $$typeof: REACT_FORWARD_REF_TYPE,\\n    render: render\\n  };\\n}\\n\\nfunction isValidElementType(type) {\\n  return typeof type === 'string' || typeof type === 'function' ||\\n  // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.\\n  type === REACT_FRAGMENT_TYPE || type === REACT_ASYNC_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_PLACEHOLDER_TYPE || typeof type === 'object' && type !== null && (typeof type.then === 'function' || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE);\\n}\\n\\n/**\\n * ReactElementValidator provides a wrapper around a element factory\\n * which validates the props passed to the element. This is intended to be\\n * used only in DEV and could be replaced by a static type checker for languages\\n * that support it.\\n */\\n\\nvar propTypesMisspellWarningShown = void 0;\\n\\n{\\n  propTypesMisspellWarningShown = false;\\n}\\n\\nfunction getDeclarationErrorAddendum() {\\n  if (ReactCurrentOwner.current) {\\n    var name = getComponentName(ReactCurrentOwner.current.type);\\n    if (name) {\\n      return '\\\\n\\\\nCheck the render method of `' + name + '`.';\\n    }\\n  }\\n  return '';\\n}\\n\\nfunction getSourceInfoErrorAddendum(elementProps) {\\n  if (elementProps !== null && elementProps !== undefined && elementProps.__source !== undefined) {\\n    var source = elementProps.__source;\\n    var fileName = source.fileName.replace(/^.*[\\\\\\\\\\\\/]/, '');\\n    var lineNumber = source.lineNumber;\\n    return '\\\\n\\\\nCheck your code at ' + fileName + ':' + lineNumber + '.';\\n  }\\n  return '';\\n}\\n\\n/**\\n * Warn if there's no key explicitly set on dynamic arrays of children or\\n * object keys are not valid. This allows us to keep track of children between\\n * updates.\\n */\\nvar ownerHasKeyUseWarning = {};\\n\\nfunction getCurrentComponentErrorInfo(parentType) {\\n  var info = getDeclarationErrorAddendum();\\n\\n  if (!info) {\\n    var parentName = typeof parentType === 'string' ? parentType : parentType.displayName || parentType.name;\\n    if (parentName) {\\n      info = '\\\\n\\\\nCheck the top-level render call using <' + parentName + '>.';\\n    }\\n  }\\n  return info;\\n}\\n\\n/**\\n * Warn if the element doesn't have an explicit key assigned to it.\\n * This element is in an array. The array could grow and shrink or be\\n * reordered. All children that haven't already been validated are required to\\n * have a \\\"key\\\" property assigned to it. Error statuses are cached so a warning\\n * will only be shown once.\\n *\\n * @internal\\n * @param {ReactElement} element Element that requires a key.\\n * @param {*} parentType element's parent's type.\\n */\\nfunction validateExplicitKey(element, parentType) {\\n  if (!element._store || element._store.validated || element.key != null) {\\n    return;\\n  }\\n  element._store.validated = true;\\n\\n  var currentComponentErrorInfo = getCurrentComponentErrorInfo(parentType);\\n  if (ownerHasKeyUseWarning[currentComponentErrorInfo]) {\\n    return;\\n  }\\n  ownerHasKeyUseWarning[currentComponentErrorInfo] = true;\\n\\n  // Usually the current owner is the offender, but if it accepts children as a\\n  // property, it may be the creator of the child that's responsible for\\n  // assigning it a key.\\n  var childOwner = '';\\n  if (element && element._owner && element._owner !== ReactCurrentOwner.current) {\\n    // Give the component that originally created this child.\\n    childOwner = ' It was passed a child from ' + getComponentName(element._owner.type) + '.';\\n  }\\n\\n  setCurrentlyValidatingElement(element);\\n  {\\n    warning$1(false, 'Each child in an array or iterator should have a unique \\\"key\\\" prop.' + '%s%s See https://fb.me/react-warning-keys for more information.', currentComponentErrorInfo, childOwner);\\n  }\\n  setCurrentlyValidatingElement(null);\\n}\\n\\n/**\\n * Ensure that every element either is passed in a static location, in an\\n * array with an explicit keys property defined, or in an object literal\\n * with valid key property.\\n *\\n * @internal\\n * @param {ReactNode} node Statically passed child of any type.\\n * @param {*} parentType node's parent's type.\\n */\\nfunction validateChildKeys(node, parentType) {\\n  if (typeof node !== 'object') {\\n    return;\\n  }\\n  if (Array.isArray(node)) {\\n    for (var i = 0; i < node.length; i++) {\\n      var child = node[i];\\n      if (isValidElement(child)) {\\n        validateExplicitKey(child, parentType);\\n      }\\n    }\\n  } else if (isValidElement(node)) {\\n    // This element was passed in a valid location.\\n    if (node._store) {\\n      node._store.validated = true;\\n    }\\n  } else if (node) {\\n    var iteratorFn = getIteratorFn(node);\\n    if (typeof iteratorFn === 'function') {\\n      // Entry iterators used to provide implicit keys,\\n      // but now we print a separate warning for them later.\\n      if (iteratorFn !== node.entries) {\\n        var iterator = iteratorFn.call(node);\\n        var step = void 0;\\n        while (!(step = iterator.next()).done) {\\n          if (isValidElement(step.value)) {\\n            validateExplicitKey(step.value, parentType);\\n          }\\n        }\\n      }\\n    }\\n  }\\n}\\n\\n/**\\n * Given an element, validate that its props follow the propTypes definition,\\n * provided by the type.\\n *\\n * @param {ReactElement} element\\n */\\nfunction validatePropTypes(element) {\\n  var type = element.type;\\n  var name = void 0,\\n      propTypes = void 0;\\n  if (typeof type === 'function') {\\n    // Class or functional component\\n    name = type.displayName || type.name;\\n    propTypes = type.propTypes;\\n  } else if (typeof type === 'object' && type !== null && type.$$typeof === REACT_FORWARD_REF_TYPE) {\\n    // ForwardRef\\n    var functionName = type.render.displayName || type.render.name || '';\\n    name = type.displayName || (functionName !== '' ? 'ForwardRef(' + functionName + ')' : 'ForwardRef');\\n    propTypes = type.propTypes;\\n  } else {\\n    return;\\n  }\\n  if (propTypes) {\\n    setCurrentlyValidatingElement(element);\\n    checkPropTypes(propTypes, element.props, 'prop', name, ReactDebugCurrentFrame.getStackAddendum);\\n    setCurrentlyValidatingElement(null);\\n  } else if (type.PropTypes !== undefined && !propTypesMisspellWarningShown) {\\n    propTypesMisspellWarningShown = true;\\n    warningWithoutStack$1(false, 'Component %s declared `PropTypes` instead of `propTypes`. Did you misspell the property assignment?', name || 'Unknown');\\n  }\\n  if (typeof type.getDefaultProps === 'function') {\\n    !type.getDefaultProps.isReactClassApproved ? warningWithoutStack$1(false, 'getDefaultProps is only used on classic React.createClass ' + 'definitions. Use a static property named `defaultProps` instead.') : void 0;\\n  }\\n}\\n\\n/**\\n * Given a fragment, validate that it can only be provided with fragment props\\n * @param {ReactElement} fragment\\n */\\nfunction validateFragmentProps(fragment) {\\n  setCurrentlyValidatingElement(fragment);\\n\\n  var keys = Object.keys(fragment.props);\\n  for (var i = 0; i < keys.length; i++) {\\n    var key = keys[i];\\n    if (key !== 'children' && key !== 'key') {\\n      warning$1(false, 'Invalid prop `%s` supplied to `React.Fragment`. ' + 'React.Fragment can only have `key` and `children` props.', key);\\n      break;\\n    }\\n  }\\n\\n  if (fragment.ref !== null) {\\n    warning$1(false, 'Invalid attribute `ref` supplied to `React.Fragment`.');\\n  }\\n\\n  setCurrentlyValidatingElement(null);\\n}\\n\\nfunction createElementWithValidation(type, props, children) {\\n  var validType = isValidElementType(type);\\n\\n  // We warn in this case but don't throw. We expect the element creation to\\n  // succeed and there will likely be errors in render.\\n  if (!validType) {\\n    var info = '';\\n    if (type === undefined || typeof type === 'object' && type !== null && Object.keys(type).length === 0) {\\n      info += ' You likely forgot to export your component from the file ' + \\\"it's defined in, or you might have mixed up default and named imports.\\\";\\n    }\\n\\n    var sourceInfo = getSourceInfoErrorAddendum(props);\\n    if (sourceInfo) {\\n      info += sourceInfo;\\n    } else {\\n      info += getDeclarationErrorAddendum();\\n    }\\n\\n    var typeString = void 0;\\n    if (type === null) {\\n      typeString = 'null';\\n    } else if (Array.isArray(type)) {\\n      typeString = 'array';\\n    } else if (type !== undefined && type.$$typeof === REACT_ELEMENT_TYPE) {\\n      typeString = '<' + (getComponentName(type.type) || 'Unknown') + ' />';\\n      info = ' Did you accidentally export a JSX literal instead of a component?';\\n    } else {\\n      typeString = typeof type;\\n    }\\n\\n    warning$1(false, 'React.createElement: type is invalid -- expected a string (for ' + 'built-in components) or a class/function (for composite ' + 'components) but got: %s.%s', typeString, info);\\n  }\\n\\n  var element = createElement.apply(this, arguments);\\n\\n  // The result can be nullish if a mock or a custom function is used.\\n  // TODO: Drop this when these are no longer allowed as the type argument.\\n  if (element == null) {\\n    return element;\\n  }\\n\\n  // Skip key warning if the type isn't valid since our key validation logic\\n  // doesn't expect a non-string/function type and can throw confusing errors.\\n  // We don't want exception behavior to differ between dev and prod.\\n  // (Rendering will throw with a helpful message and as soon as the type is\\n  // fixed, the key warnings will appear.)\\n  if (validType) {\\n    for (var i = 2; i < arguments.length; i++) {\\n      validateChildKeys(arguments[i], type);\\n    }\\n  }\\n\\n  if (type === REACT_FRAGMENT_TYPE) {\\n    validateFragmentProps(element);\\n  } else {\\n    validatePropTypes(element);\\n  }\\n\\n  return element;\\n}\\n\\nfunction createFactoryWithValidation(type) {\\n  var validatedFactory = createElementWithValidation.bind(null, type);\\n  validatedFactory.type = type;\\n  // Legacy hook: remove it\\n  {\\n    Object.defineProperty(validatedFactory, 'type', {\\n      enumerable: false,\\n      get: function () {\\n        lowPriorityWarning$1(false, 'Factory.type is deprecated. Access the class directly ' + 'before passing it to createFactory.');\\n        Object.defineProperty(this, 'type', {\\n          value: type\\n        });\\n        return type;\\n      }\\n    });\\n  }\\n\\n  return validatedFactory;\\n}\\n\\nfunction cloneElementWithValidation(element, props, children) {\\n  var newElement = cloneElement.apply(this, arguments);\\n  for (var i = 2; i < arguments.length; i++) {\\n    validateChildKeys(arguments[i], newElement.type);\\n  }\\n  validatePropTypes(newElement);\\n  return newElement;\\n}\\n\\nvar React = {\\n  Children: {\\n    map: mapChildren,\\n    forEach: forEachChildren,\\n    count: countChildren,\\n    toArray: toArray,\\n    only: onlyChild\\n  },\\n\\n  createRef: createRef,\\n  Component: Component,\\n  PureComponent: PureComponent,\\n\\n  createContext: createContext,\\n  forwardRef: forwardRef,\\n\\n  Fragment: REACT_FRAGMENT_TYPE,\\n  StrictMode: REACT_STRICT_MODE_TYPE,\\n  unstable_AsyncMode: REACT_ASYNC_MODE_TYPE,\\n  unstable_Profiler: REACT_PROFILER_TYPE,\\n\\n  createElement: createElementWithValidation,\\n  cloneElement: cloneElementWithValidation,\\n  createFactory: createFactoryWithValidation,\\n  isValidElement: isValidElement,\\n\\n  version: ReactVersion,\\n\\n  __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED: ReactSharedInternals\\n};\\n\\nif (enableSuspense) {\\n  React.Placeholder = REACT_PLACEHOLDER_TYPE;\\n  React.lazy = lazy;\\n}\\n\\n\\n\\nvar React$2 = Object.freeze({\\n\\tdefault: React\\n});\\n\\nvar React$3 = ( React$2 && React ) || React$2;\\n\\n// TODO: decide on the top-level export form.\\n// This is hacky but makes it work with both Rollup and Jest.\\nvar react = React$3.default || React$3;\\n\\nmodule.exports = react;\\n  })();\\n}\\n\\n\\n//# sourceURL=webpack://%5Bname%5D/./node_modules/react/cjs/react.development.js?\");\n\n/***/ }),\n\n/***/ \"./node_modules/react/index.js\":\n/*!*************************************!*\\\n  !*** ./node_modules/react/index.js ***!\n  \\*************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\neval(\"\\n\\nif (false) {} else {\\n  module.exports = __webpack_require__(/*! ./cjs/react.development.js */ \\\"./node_modules/react/cjs/react.development.js\\\");\\n}\\n\\n\\n//# sourceURL=webpack://%5Bname%5D/./node_modules/react/index.js?\");\n\n/***/ })\n\n/******/ });"
+    description: >-
+      Demo repository for the alva for devs talk at SinnerSchrader engineering
+      offsite 2018
+    id: a362396f-734f-4006-be1b-7eda0a44053c
+    name: alva-for-devs
+    origin: user-provided
+    patterns:
+      - model: Pattern
+        contextId: 'lib/field.d.ts:Field'
+        description: ''
+        exportName: Field
+        id: 1536a9ad-cbb0-4893-af74-aa23edb97dd5
+        name: Field
+        origin: user-provided
+        propertyIds:
+          - a6aca295-043d-475f-a763-16f526a09af0
+        slots:
+          - model: PatternSlot
+            contextId: children
+            description: ''
+            example: ''
+            hidden: false
+            label: children
+            propertyName: children
+            id: dcb72c8c-2386-413d-8e00-9e8485cd2110
+            required: true
+            type: children
+        type: pattern
+      - model: Pattern
+        contextId: 'lib/reverser.d.ts:Reverser'
+        description: ''
+        exportName: Reverser
+        id: dbdd8c14-0312-4ff5-a00c-8ce740f68380
+        name: Reverser
+        origin: user-provided
+        propertyIds:
+          - 64054cc2-575a-45b1-91b5-bc45a2f90b8e
+          - 4d301c69-55da-4fcc-ad4b-2b21a048e8ad
+        slots: []
+        type: pattern
+      - model: Pattern
+        contextId: 'lib/field.d.ts:FieldContainer'
+        description: ''
+        exportName: FieldContainer
+        id: cf7ea8cf-d402-4814-935e-5fbffa8c1aab
+        name: Field container
+        origin: user-provided
+        propertyIds: []
+        slots:
+          - model: PatternSlot
+            contextId: children
+            description: ''
+            example: ''
+            hidden: false
+            label: children
+            propertyName: children
+            id: ee22b991-bcef-4b1d-ba25-737dd81d78e3
+            required: true
+            type: children
+        type: pattern
+    patternProperties:
+      - model: PatternProperty
+        contextId: text
+        defaultValue: This may be reversed by toggleing the "revert" property
+        description: ''
+        example: ''
+        hidden: false
+        id: 64054cc2-575a-45b1-91b5-bc45a2f90b8e
+        inputType: default
+        label: text
+        origin: user-provided
+        propertyName: text
+        required: true
+        type: string
+      - model: PatternProperty
+        contextId: revert
+        defaultValue: false
+        description: ''
+        example: ''
+        hidden: false
+        id: 4d301c69-55da-4fcc-ad4b-2b21a048e8ad
+        inputType: default
+        label: revert
+        origin: user-provided
+        propertyName: revert
+        required: true
+        type: boolean
+      - model: PatternProperty
+        contextId: onMouseMove
+        description: ''
+        event:
+          type: MouseEvent
+        example: ''
+        hidden: false
+        id: a6aca295-043d-475f-a763-16f526a09af0
+        inputType: default
+        label: onMouseMove
+        origin: user-provided
+        propertyName: onMouseMove
+        required: true
+        type: EventHandler
+    state: connected
+userStore:
+  model: UserStore
+  actions:
+    - model: UserStoreAction
+      acceptsProperty: false
+      id: c3980718-1b22-407c-83ca-4755fcf3a126
+      name: No Interaction
+      type: noop
+    - model: UserStoreAction
+      acceptsProperty: false
+      id: 33fe3b73-3d48-425c-8565-c4bb95113a65
+      name: Switch Page
+      storePropertyId: 6d2da5e5-831b-474c-960a-0b96d6baf869
+      type: set
+    - model: UserStoreAction
+      acceptsProperty: false
+      id: f9a8b9a4-12fa-4c3d-8cbd-a83c1889757b
+      name: Navigate
+      type: open-external
+    - model: UserStoreAction
+      acceptsProperty: true
+      id: 5ed0c926-e498-4f5e-af7b-d68d53f04d44
+      name: Set Variable
+      type: set
+  currentPageProperty:
+    model: UserStoreProperty
+    id: 6d2da5e5-831b-474c-960a-0b96d6baf869
+    name: Current Page
+    concreteValue: 806e91d2-5cae-4cdc-8095-f2c8a52732a7
+    initialValue: ''
+    type: concrete
+    valueType: page
+  enhancer:
+    model: UserStoreEnhancer
+    id: bc20bc9d-a1fb-40bb-886e-114161f4cacb
+    typeScript: "import * as Alva from 'alva';\n\nexport function onStoreCreate(store: Alva.DesignTimeUserStore): Alva.DesignTimeUserStore {\n\t// Add properties to your store here, e.g.:\n\t// store.defineProperty('hello', { value: 'Hello' });\n\t// store.defineProperty('world', { value: 'World' });\n\t// store.defineProperty('helloWorld', { get: () => store.getProperty('hello').getValue() + ' ' + store.getProperty('world').getValue() });\n\treturn store;\n}\n"
+    javaScript: 'exports.onStoreCreate = function onStoreCreate(store) { return store; }'
+  id: 7951f193-c899-4dbc-86d4-e398e8e144ac
+  properties:
+    - model: UserStoreProperty
+      id: 10e6fb8f-712c-4026-80f0-bbef05d97fa9
+      name: 'y'
+      initialValue: ''
+      type: concrete
+      valueType: string
+    - model: UserStoreProperty
+      id: 56cde436-d171-48ac-bfed-8e8e07092e8e
+      name: x
+      initialValue: ''
+      type: concrete
+      valueType: string
+  references:
+    - model: UserStoreReference
+      id: b5999e31-ba4d-42b4-9b21-386f5f407ec5
+      open: false
+      elementPropertyId: >-
+        dd6c2c9f-7a6c-4530-a414-432f5f2eed9d-d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+      userStorePropertyId: 56cde436-d171-48ac-bfed-8e8e07092e8e
+    - model: UserStoreReference
+      id: 9e3c3b9a-5333-483b-b296-befd7a721aaf
+      open: false
+      elementPropertyId: >-
+        cd508c2a-2db3-40f8-a716-dd1f140bab65-d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+      userStorePropertyId: 10e6fb8f-712c-4026-80f0-bbef05d97fa9
+    - model: UserStoreReference
+      id: 88c4870f-6aa1-4186-8d8d-60eb517df66b
+      open: false
+      elementPropertyId: >-
+        82f3963c-fa74-4659-a77e-1ac9f55c9bf0-d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+      userStorePropertyId: 56cde436-d171-48ac-bfed-8e8e07092e8e
+    - model: UserStoreReference
+      id: 8e6051ac-c3ba-43ee-a102-b56c54389ed9
+      open: false
+      elementPropertyId: >-
+        7f07783f-ffb3-4b81-a645-5212d89dca39-d8db2d9a-8dad-4cb0-b56d-33b6c9f73236
+      userStorePropertyId: 10e6fb8f-712c-4026-80f0-bbef05d97fa9
