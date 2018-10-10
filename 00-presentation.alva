@@ -95,7 +95,7 @@ elements:
     placeholderHighlighted: false
     propertyValues:
       - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
-        - How to integrate it.
+        - And how to integrate it.
     role: node
     selected: false
   - model: Element
@@ -129,7 +129,7 @@ elements:
     focused: false
     highlighted: false
     id: b3cd12a7-a544-4070-aa0c-b1e047615c52
-    name: Image
+    name: Logo
     open: false
     forcedOpen: false
     patternId: 6cd9efc6-30fd-45ec-ba2b-8de6f4c397e7
@@ -491,6 +491,511 @@ elements:
     propertyValues: []
     role: node
     selected: false
+  - model: Element
+    containerId: 10d2d294-c3ce-48b0-9c79-7262b86c9378
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 27e30e51-7f58-48dc-b340-c1130430bb0c
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - Components
+    role: node
+    selected: false
+  - model: Element
+    containerId: f10a531f-a396-4c8b-8e49-8759d3557839
+    contentIds:
+      - 10d2d294-c3ce-48b0-9c79-7262b86c9378
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 1198b17e-3caf-4077-af66-05cedf2063fb
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#fff'
+      - - a9d4b249-6929-43dd-b0ae-ce3bc98d9007
+        - false
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+      - - 3a4d295b-0da8-4c2a-a082-e59e10f6a817
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: ace9e08e-304d-4461-b668-34e9ed1640a3
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: 4217e0ff-981a-44c5-b523-cd0da290fa0f
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: ebf4955d-be28-4045-b428-9f536db3b76e
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - +
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds:
+      - 4217e0ff-981a-44c5-b523-cd0da290fa0f
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 2c6a2dec-3338-4771-a8ba-143395e822b6
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#999'
+      - - a9d4b249-6929-43dd-b0ae-ce3bc98d9007
+        - false
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+      - - 3a4d295b-0da8-4c2a-a082-e59e10f6a817
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: 146c9b41-648f-48f7-acfa-6a0e50289379
+    contentIds:
+      - c7fc222e-ab01-4aca-b197-16dada2077a9
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 2f0c6873-3300-456a-8c36-c677941172d6
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - 100vw
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - 100vh
+      - - fae7d6e7-9609-4307-88d5-a6bafe994122
+        - '#111'
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - row
+      - - f2f45488-df33-4041-92bd-6925b26631e2
+        - center
+      - - 4ae8e183-2540-4f73-bb87-1b30dd27a971
+        - center
+    role: node
+    selected: false
+  - model: Element
+    contentIds:
+      - 146c9b41-648f-48f7-acfa-6a0e50289379
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 26f8aaa0-cf20-4a68-873d-60f27a934042
+    name: Page 1
+    open: false
+    forcedOpen: false
+    patternId: f35ccac2-7e96-4fc2-b72a-8a7264bdc17d
+    placeholderHighlighted: false
+    propertyValues: []
+    role: root
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 32d558ae-a3aa-4a08-b93b-d40ccda5188b
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds:
+      - f10a531f-a396-4c8b-8e49-8759d3557839
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 42963051-7441-40d1-8ad8-c527a518ae4e
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - ''
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+    role: node
+    selected: false
+  - model: Element
+    containerId: f10a531f-a396-4c8b-8e49-8759d3557839
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: ecf2cb36-ceb0-4d3b-82d7-30b0effa09e0
+    name: Icon
+    open: false
+    forcedOpen: false
+    patternId: 6cd9efc6-30fd-45ec-ba2b-8de6f4c397e7
+    placeholderHighlighted: false
+    propertyValues:
+      - - abba9ddf-4ab4-40b8-b360-61b5cd0e6964
+        - >-
+          data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5jb21wb25lbnRzPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9ImNvbXBvbmVudHMiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIG9wYWNpdHk9IjAuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyBpZD0ibGF5ZXJzLSgxKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4wMDAwMDAsIDIuMDAwMDAwKSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPgogICAgICAgICAgICA8cG9seWdvbiBpZD0iU2hhcGUiIHBvaW50cz0iMTAgMCAwIDUgMTAgMTAgMjAgNSI+PC9wb2x5Z29uPgogICAgICAgICAgICA8cG9seWxpbmUgaWQ9IlNoYXBlIiBwb2ludHM9IjAgMTUgMTAgMjAgMjAgMTUiPjwvcG9seWxpbmU+CiAgICAgICAgICAgIDxwb2x5bGluZSBpZD0iU2hhcGUiIHBvaW50cz0iMCAxMCAxMCAxNSAyMCAxMCI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==
+      - - 9c0c0b58-6502-49e5-b7a3-b6a48182c446
+        - 50px
+    role: node
+    selected: false
+  - model: Element
+    containerId: d9801f15-0d9d-4512-941d-df76d35016d6
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 77f6e291-bfc8-417d-a7c9-11d79c554ef8
+    name: Icon
+    open: false
+    forcedOpen: false
+    patternId: 6cd9efc6-30fd-45ec-ba2b-8de6f4c397e7
+    placeholderHighlighted: false
+    propertyValues:
+      - - abba9ddf-4ab4-40b8-b360-61b5cd0e6964
+        - >-
+          data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5kYXRhPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9ImRhdGEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIG9wYWNpdHk9IjAuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyBpZD0iZGF0YWJhc2UiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMuMDAwMDAwLCAyLjAwMDAwMCkiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPGVsbGlwc2UgaWQ9Ik92YWwiIGN4PSI5IiBjeT0iMyIgcng9IjkiIHJ5PSIzIj48L2VsbGlwc2U+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOCwxMCBDMTgsMTEuNjYgMTQsMTMgOSwxMyBDNCwxMyAwLDExLjY2IDAsMTAiIGlkPSJTaGFwZSI+PC9wYXRoPgogICAgICAgICAgICA8cGF0aCBkPSJNMCwzIEwwLDE3IEMwLDE4LjY2IDQsMjAgOSwyMCBDMTQsMjAgMTgsMTguNjYgMTgsMTcgTDE4LDMiIGlkPSJTaGFwZSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+
+      - - 9c0c0b58-6502-49e5-b7a3-b6a48182c446
+        - 50px
+    role: node
+    selected: false
+  - model: Element
+    containerId: a7a9060d-0de9-4f0b-87f2-6cbbaac59119
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 8d148888-14a5-4314-8b5f-beb71745ed20
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - Data
+    role: node
+    selected: false
+  - model: Element
+    containerId: d9801f15-0d9d-4512-941d-df76d35016d6
+    contentIds:
+      - a7a9060d-0de9-4f0b-87f2-6cbbaac59119
+    dragged: false
+    focused: false
+    highlighted: false
+    id: de1931a4-022b-4de7-90a2-c398a97ae87e
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#fff'
+      - - a9d4b249-6929-43dd-b0ae-ce3bc98d9007
+        - false
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+      - - 3a4d295b-0da8-4c2a-a082-e59e10f6a817
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds:
+      - d9801f15-0d9d-4512-941d-df76d35016d6
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 7ac2dbf3-7965-408f-8dd9-8e516f86dc37
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - ''
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+    role: node
+    selected: false
+  - model: Element
+    containerId: e0b05bdf-9f89-4009-b799-825ed7b92c34
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: d8cd2d8a-4dda-45f2-913f-2d3bc07108c1
+    name: Logo
+    open: false
+    forcedOpen: false
+    patternId: 6cd9efc6-30fd-45ec-ba2b-8de6f4c397e7
+    placeholderHighlighted: false
+    propertyValues:
+      - - abba9ddf-4ab4-40b8-b360-61b5cd0e6964
+        - >-
+          data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDUwLjIgKDU1MDQ3KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5wcm90b3R5cGU8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0icHJvdG90eXBlIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIwLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9ImxheW91dCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMy4wMDAwMDAsIDMuMDAwMDAwKSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPgogICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlLXBhdGgiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiPjwvcmVjdD4KICAgICAgICAgICAgPHBhdGggZD0iTTAsNiBMMTgsNiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik02LDE4IEw2LDYiIGlkPSJTaGFwZSI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+
+      - - 9c0c0b58-6502-49e5-b7a3-b6a48182c446
+        - 50px
+    role: node
+    selected: false
+  - model: Element
+    containerId: c479cc94-9740-4cd4-b3df-52706dcd3c9b
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 1a43bf97-67ae-4486-841f-63b22487d8db
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - Prototype
+    role: node
+    selected: false
+  - model: Element
+    containerId: e0b05bdf-9f89-4009-b799-825ed7b92c34
+    contentIds:
+      - c479cc94-9740-4cd4-b3df-52706dcd3c9b
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 8b2fd598-7a5f-4f7b-b174-bb0da7bcf9aa
+    name: Headline
+    open: true
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#fff'
+      - - a9d4b249-6929-43dd-b0ae-ce3bc98d9007
+        - false
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+      - - 3a4d295b-0da8-4c2a-a082-e59e10f6a817
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds:
+      - e0b05bdf-9f89-4009-b799-825ed7b92c34
+    dragged: false
+    focused: false
+    highlighted: false
+    id: c5c8d40c-9830-4a2e-aa45-bc221bd6f617
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - ''
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+    role: node
+    selected: false
+  - model: Element
+    containerId: 391c66e5-b8e9-4271-9b2d-fb7a5504abde
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 9426bcbb-f9f4-478d-8a08-4fd3c1c74645
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - =
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds:
+      - 391c66e5-b8e9-4271-9b2d-fb7a5504abde
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 8cf9afba-1aee-4feb-a1b5-8ec666a922d4
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#999'
+      - - a9d4b249-6929-43dd-b0ae-ce3bc98d9007
+        - false
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+      - - 3a4d295b-0da8-4c2a-a082-e59e10f6a817
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: ac5fcf7a-cc41-47f3-92cf-45196fc5daf2
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: c7fc222e-ab01-4aca-b197-16dada2077a9
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 3eab90af-a759-4e8c-8beb-98d6fff19b78
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues: []
+    role: node
+    selected: false
+  - model: Element
+    containerId: f10a531f-a396-4c8b-8e49-8759d3557839
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 203b53df-b8a0-4ffe-9c3f-99bd631b54e3
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: d9801f15-0d9d-4512-941d-df76d35016d6
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: f5b9a893-f30b-4674-aa2f-ef179cb7316b
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: e0b05bdf-9f89-4009-b799-825ed7b92c34
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 0ba09872-c112-4cb8-b841-de8e747eedf0
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 1
+    role: node
+    selected: false
 elementActions: []
 elementContents:
   - model: ElementContent
@@ -526,7 +1031,7 @@ elementContents:
   - model: ElementContent
     elementIds:
       - eb5319ea-9cae-471c-a2d8-acfe6d787597
-    forcedOpen: false
+    forcedOpen: true
     highlighted: false
     id: e5d44fc4-72ff-434a-b6e7-fc91f616b0b9
     open: false
@@ -612,24 +1117,132 @@ elementContents:
     open: false
     parentElementId: c7632e98-69e9-4915-9178-ae64eaa753a5
     slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 27e30e51-7f58-48dc-b340-c1130430bb0c
+    forcedOpen: false
+    highlighted: false
+    id: 10d2d294-c3ce-48b0-9c79-7262b86c9378
+    open: false
+    parentElementId: 1198b17e-3caf-4077-af66-05cedf2063fb
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - ebf4955d-be28-4045-b428-9f536db3b76e
+    forcedOpen: false
+    highlighted: false
+    id: 4217e0ff-981a-44c5-b523-cd0da290fa0f
+    open: false
+    parentElementId: 2c6a2dec-3338-4771-a8ba-143395e822b6
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - 42963051-7441-40d1-8ad8-c527a518ae4e
+      - ace9e08e-304d-4461-b668-34e9ed1640a3
+      - 2c6a2dec-3338-4771-a8ba-143395e822b6
+      - 32d558ae-a3aa-4a08-b93b-d40ccda5188b
+      - 7ac2dbf3-7965-408f-8dd9-8e516f86dc37
+      - ac5fcf7a-cc41-47f3-92cf-45196fc5daf2
+      - 8cf9afba-1aee-4feb-a1b5-8ec666a922d4
+      - 3eab90af-a759-4e8c-8beb-98d6fff19b78
+      - c5c8d40c-9830-4a2e-aa45-bc221bd6f617
+    forcedOpen: false
+    highlighted: false
+    id: c7fc222e-ab01-4aca-b197-16dada2077a9
+    open: false
+    parentElementId: 2f0c6873-3300-456a-8c36-c677941172d6
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 2f0c6873-3300-456a-8c36-c677941172d6
+    forcedOpen: true
+    highlighted: false
+    id: 146c9b41-648f-48f7-acfa-6a0e50289379
+    open: false
+    parentElementId: 26f8aaa0-cf20-4a68-873d-60f27a934042
+    slotId: b4a40a64-00fb-4b9c-a1a9-f790f579172f
+  - model: ElementContent
+    elementIds:
+      - ecf2cb36-ceb0-4d3b-82d7-30b0effa09e0
+      - 203b53df-b8a0-4ffe-9c3f-99bd631b54e3
+      - 1198b17e-3caf-4077-af66-05cedf2063fb
+    forcedOpen: false
+    highlighted: false
+    id: f10a531f-a396-4c8b-8e49-8759d3557839
+    open: false
+    parentElementId: 42963051-7441-40d1-8ad8-c527a518ae4e
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 8d148888-14a5-4314-8b5f-beb71745ed20
+    forcedOpen: false
+    highlighted: false
+    id: a7a9060d-0de9-4f0b-87f2-6cbbaac59119
+    open: false
+    parentElementId: de1931a4-022b-4de7-90a2-c398a97ae87e
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - 77f6e291-bfc8-417d-a7c9-11d79c554ef8
+      - f5b9a893-f30b-4674-aa2f-ef179cb7316b
+      - de1931a4-022b-4de7-90a2-c398a97ae87e
+    forcedOpen: true
+    highlighted: false
+    id: d9801f15-0d9d-4512-941d-df76d35016d6
+    open: false
+    parentElementId: 7ac2dbf3-7965-408f-8dd9-8e516f86dc37
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 1a43bf97-67ae-4486-841f-63b22487d8db
+    forcedOpen: false
+    highlighted: false
+    id: c479cc94-9740-4cd4-b3df-52706dcd3c9b
+    open: false
+    parentElementId: 8b2fd598-7a5f-4f7b-b174-bb0da7bcf9aa
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - d8cd2d8a-4dda-45f2-913f-2d3bc07108c1
+      - 0ba09872-c112-4cb8-b841-de8e747eedf0
+      - 8b2fd598-7a5f-4f7b-b174-bb0da7bcf9aa
+    forcedOpen: false
+    highlighted: false
+    id: e0b05bdf-9f89-4009-b799-825ed7b92c34
+    open: false
+    parentElementId: c5c8d40c-9830-4a2e-aa45-bc221bd6f617
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 9426bcbb-f9f4-478d-8a08-4fd3c1c74645
+    forcedOpen: false
+    highlighted: false
+    id: 391c66e5-b8e9-4271-9b2d-fb7a5504abde
+    open: false
+    parentElementId: 8cf9afba-1aee-4feb-a1b5-8ec666a922d4
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
 id: c67734b9-e7f7-4b89-8d1c-432e9fee6ab8
-name: 201810-Offsite
+name: 00-presentation
 pages:
   - model: Page
-    active: false
+    active: true
     focused: false
     id: 4b847055-affd-4b23-a779-4af72fb85159
     name: 01 Intro
     rootId: 5c4ca181-562b-4722-ae58-5909aa46edc2
   - model: Page
-    active: true
+    active: false
     focused: false
     id: ca44ea8a-3762-4a21-963c-6aad8c5149b8
     name: 02 Us
     rootId: b25f442f-0f6e-45b4-b7d4-b1a5e5ebc983
-path: >-
-  /Users/tilman/Library/Mobile
-  Documents/com~apple~CloudDocs/Alva/201810-Offsite.alva
+  - model: Page
+    active: false
+    focused: false
+    id: 94ef9621-f522-4fcb-8f5e-fb5e2400af49
+    name: 03 Prototype
+    rootId: 26f8aaa0-cf20-4a68-873d-60f27a934042
+path: /Users/tilman/Github/meetalva/alva-for-devs/00-presentation.alva
 patternLibraries:
   - model: PatternLibrary
     bundleId: ''
@@ -3993,7 +4606,7 @@ patternLibraries:
         propertyName: image
         required: false
         type: string
-    state: connected
+    state: disconnected
 userStore:
   model: UserStore
   actions:
@@ -4022,7 +4635,7 @@ userStore:
     model: UserStoreProperty
     id: 625db2d0-bfb5-4f9d-a90b-17841dcc4e02
     name: Current Page
-    concreteValue: ca44ea8a-3762-4a21-963c-6aad8c5149b8
+    concreteValue: 4b847055-affd-4b23-a779-4af72fb85159
     initialValue: ''
     type: concrete
     valueType: page
@@ -4033,4 +4646,19 @@ userStore:
     javaScript: 'exports.onStoreCreate = function onStoreCreate(store) { return store; }'
   id: 479b68c8-f308-4f30-b0c7-ec08d81ef2b9
   properties: []
-  references: []
+  references:
+    - model: UserStoreReference
+      id: 82a63550-7719-425b-8e10-4b53510357e6
+      open: false
+      elementPropertyId: >-
+        203b53df-b8a0-4ffe-9c3f-99bd631b54e3-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+    - model: UserStoreReference
+      id: 6b422a34-2ddd-471f-9704-cf598af633d7
+      open: false
+      elementPropertyId: >-
+        f5b9a893-f30b-4674-aa2f-ef179cb7316b-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+    - model: UserStoreReference
+      id: 5c634189-4e7c-432a-bae7-bd6337f3361f
+      open: false
+      elementPropertyId: >-
+        0ba09872-c112-4cb8-b841-de8e747eedf0-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
