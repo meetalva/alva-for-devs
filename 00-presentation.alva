@@ -6773,6 +6773,332 @@ elements:
     propertyValues: []
     role: root
     selected: false
+  - model: Element
+    contentIds:
+      - 6ae1d133-59fc-46b8-a9a9-ca320c858228
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 4bc3e0cc-6140-497e-9041-79418c75195d
+    name: Page 1
+    open: true
+    forcedOpen: false
+    patternId: f35ccac2-7e96-4fc2-b72a-8a7264bdc17d
+    placeholderHighlighted: false
+    propertyValues: []
+    role: root
+    selected: false
+  - model: Element
+    containerId: f9b07802-6598-45f1-aaf6-7a28db0efffd
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: a322ea2e-1a7d-4c00-91a0-aa849abdc6c7
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - as a wrapper for all major platforms
+    role: node
+    selected: false
+  - model: Element
+    containerId: 236e7ae7-2caa-41ba-acfa-656d00948660
+    contentIds:
+      - f9b07802-6598-45f1-aaf6-7a28db0efffd
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 3e27e182-d8f6-4c7c-bf87-dd1ff99927ea
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#999'
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: 236e7ae7-2caa-41ba-acfa-656d00948660
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 4d934924-6eb3-4199-89f2-d557827422ec
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 0
+    role: node
+    selected: false
+  - model: Element
+    containerId: 57786ecf-6c32-4771-9c8c-e47b55fb16e0
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: abb2f622-0ab3-4fd9-af61-1b1667df9273
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - Electron 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: 236e7ae7-2caa-41ba-acfa-656d00948660
+    contentIds:
+      - 57786ecf-6c32-4771-9c8c-e47b55fb16e0
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 47f3d46f-8f19-41e5-a422-45e2ef6cc703
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#fff'
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: c27ea9d2-3b35-478e-a3c8-64e7ae75b136
+    contentIds:
+      - 236e7ae7-2caa-41ba-acfa-656d00948660
+    dragged: false
+    focused: false
+    highlighted: false
+    id: e4a25829-973f-4353-82ef-6c77de8c7fcb
+    name: Box
+    open: false
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - ''
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - ''
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+    role: node
+    selected: false
+  - model: Element
+    containerId: c27ea9d2-3b35-478e-a3c8-64e7ae75b136
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 7c2c21c1-5b99-4f8b-b355-08ec937dd7c2
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 3
+    role: node
+    selected: false
+  - model: Element
+    containerId: ad662f87-37f9-4e71-bb27-2a629913f6fb
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: b33acfbb-bd72-492e-a784-78a942de964a
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - 'React App, Webpack, MobX, Styled Components'
+    role: node
+    selected: false
+  - model: Element
+    containerId: ee0e68eb-7922-4c5e-9422-cdf17159b582
+    contentIds:
+      - ad662f87-37f9-4e71-bb27-2a629913f6fb
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 06cbb6e6-aec2-4407-907f-7ee35c669604
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#999'
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 2
+    role: node
+    selected: false
+  - model: Element
+    containerId: ee0e68eb-7922-4c5e-9422-cdf17159b582
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 67b97a41-af53-4aca-9fef-43c16196479e
+    name: Space
+    open: false
+    forcedOpen: false
+    patternId: 45760dfa-deda-43e7-91e2-17c1d1b773e3
+    placeholderHighlighted: false
+    propertyValues:
+      - - d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+        - 0
+    role: node
+    selected: false
+  - model: Element
+    containerId: c423cc3c-62cd-46e8-867f-fa6fc5151566
+    contentIds: []
+    dragged: false
+    focused: false
+    highlighted: false
+    id: ceab9510-b5bb-4e93-b48d-7e873fb40f36
+    name: Text
+    open: false
+    forcedOpen: false
+    patternId: 3b4d1335-eddc-4ce6-b072-4c73488707c0
+    placeholderHighlighted: false
+    propertyValues:
+      - - 1b44856c-357c-4f46-8d2a-da8b9dfbd79c
+        - Web Technology
+    role: node
+    selected: false
+  - model: Element
+    containerId: ee0e68eb-7922-4c5e-9422-cdf17159b582
+    contentIds:
+      - c423cc3c-62cd-46e8-867f-fa6fc5151566
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 4232f0d6-82cd-416e-b5ed-221543189442
+    name: Headline
+    open: false
+    forcedOpen: false
+    patternId: 55fda731-d710-43be-bdaa-f3256ec8ae7b
+    placeholderHighlighted: false
+    propertyValues:
+      - - bf22828d-972f-432d-acc5-f2d62a44aeea
+        - '#fff'
+      - - b788b8f6-e034-4f53-b871-0beb39e0bcc6
+        - 1
+    role: node
+    selected: false
+  - model: Element
+    containerId: c27ea9d2-3b35-478e-a3c8-64e7ae75b136
+    contentIds:
+      - ee0e68eb-7922-4c5e-9422-cdf17159b582
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 78efe680-3935-4bbd-a7e6-37be1e4857d2
+    name: Box
+    open: false
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - ''
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - ''
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+    role: node
+    selected: false
+  - model: Element
+    containerId: 3d55987e-232c-404a-a95a-b29301f078b6
+    contentIds:
+      - c27ea9d2-3b35-478e-a3c8-64e7ae75b136
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 77b8880e-51cb-4097-af71-bf8f453c267c
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+    role: node
+    selected: false
+  - model: Element
+    containerId: 6ae1d133-59fc-46b8-a9a9-ca320c858228
+    contentIds:
+      - 3d55987e-232c-404a-a95a-b29301f078b6
+    dragged: false
+    focused: false
+    highlighted: false
+    id: 8593e3d4-6005-4d87-8721-e30feeb98084
+    name: Box
+    open: true
+    forcedOpen: false
+    patternId: 3d638f10-2c87-4169-8bb8-53b79efaf60c
+    placeholderHighlighted: false
+    propertyValues:
+      - - 5378fdff-c1c3-4491-ad61-e98cde0ececd
+        - 100vw
+      - - 76395a8b-dc4a-4408-83a7-903a14039fce
+        - 100vh
+      - - fae7d6e7-9609-4307-88d5-a6bafe994122
+        - '#111'
+      - - 4cbe15ad-75d6-4ce3-ac38-6fdb6cbe3239
+        - column
+      - - f2f45488-df33-4041-92bd-6925b26631e2
+        - stretch
+      - - 4ae8e183-2540-4f73-bb87-1b30dd27a971
+        - center
+      - - fcd2777c-cc43-4c0a-b7f9-39f53d23f224
+        - true
+      - - 06a4d48c-fac8-4731-a8bf-f918886500ce
+        - true
+      - - c98f584e-a12e-468f-972f-3fb715bd6cc0
+        - ''
+      - - 158c67a6-5bd0-44d2-94bd-75a27f93aab8
+        - ''
+      - - 7da477ee-b56f-4ce4-bb2f-0ea83a2e12ae
+        - ''
+    role: node
+    selected: false
 elementActions: []
 elementContents:
   - model: ElementContent
@@ -8296,12 +8622,101 @@ elementContents:
     open: false
     parentElementId: 1d4541fa-eded-4893-b0cc-f8dee9c6d138
     slotId: b4a40a64-00fb-4b9c-a1a9-f790f579172f
+  - model: ElementContent
+    elementIds:
+      - 8593e3d4-6005-4d87-8721-e30feeb98084
+    forcedOpen: true
+    highlighted: false
+    id: 6ae1d133-59fc-46b8-a9a9-ca320c858228
+    open: false
+    parentElementId: 4bc3e0cc-6140-497e-9041-79418c75195d
+    slotId: b4a40a64-00fb-4b9c-a1a9-f790f579172f
+  - model: ElementContent
+    elementIds:
+      - a322ea2e-1a7d-4c00-91a0-aa849abdc6c7
+    forcedOpen: true
+    highlighted: false
+    id: f9b07802-6598-45f1-aaf6-7a28db0efffd
+    open: false
+    parentElementId: 3e27e182-d8f6-4c7c-bf87-dd1ff99927ea
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - abb2f622-0ab3-4fd9-af61-1b1667df9273
+    forcedOpen: false
+    highlighted: false
+    id: 57786ecf-6c32-4771-9c8c-e47b55fb16e0
+    open: false
+    parentElementId: 47f3d46f-8f19-41e5-a422-45e2ef6cc703
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - 47f3d46f-8f19-41e5-a422-45e2ef6cc703
+      - 4d934924-6eb3-4199-89f2-d557827422ec
+      - 3e27e182-d8f6-4c7c-bf87-dd1ff99927ea
+    forcedOpen: true
+    highlighted: false
+    id: 236e7ae7-2caa-41ba-acfa-656d00948660
+    open: false
+    parentElementId: e4a25829-973f-4353-82ef-6c77de8c7fcb
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - b33acfbb-bd72-492e-a784-78a942de964a
+    forcedOpen: true
+    highlighted: false
+    id: ad662f87-37f9-4e71-bb27-2a629913f6fb
+    open: false
+    parentElementId: 06cbb6e6-aec2-4407-907f-7ee35c669604
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - ceab9510-b5bb-4e93-b48d-7e873fb40f36
+    forcedOpen: false
+    highlighted: false
+    id: c423cc3c-62cd-46e8-867f-fa6fc5151566
+    open: false
+    parentElementId: 4232f0d6-82cd-416e-b5ed-221543189442
+    slotId: 81cdc8d9-947b-4369-aa22-35e134b23d08
+  - model: ElementContent
+    elementIds:
+      - 4232f0d6-82cd-416e-b5ed-221543189442
+      - 67b97a41-af53-4aca-9fef-43c16196479e
+      - 06cbb6e6-aec2-4407-907f-7ee35c669604
+    forcedOpen: true
+    highlighted: false
+    id: ee0e68eb-7922-4c5e-9422-cdf17159b582
+    open: false
+    parentElementId: 78efe680-3935-4bbd-a7e6-37be1e4857d2
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - e4a25829-973f-4353-82ef-6c77de8c7fcb
+      - 7c2c21c1-5b99-4f8b-b355-08ec937dd7c2
+      - 78efe680-3935-4bbd-a7e6-37be1e4857d2
+      - 90e0686b-dd7c-48f6-9258-ce150dea73b4
+      - 7abf12ed-ddd6-4dab-9622-ec7a92c2afbe
+    forcedOpen: true
+    highlighted: false
+    id: c27ea9d2-3b35-478e-a3c8-64e7ae75b136
+    open: false
+    parentElementId: 77b8880e-51cb-4097-af71-bf8f453c267c
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
+  - model: ElementContent
+    elementIds:
+      - 77b8880e-51cb-4097-af71-bf8f453c267c
+    forcedOpen: true
+    highlighted: false
+    id: 3d55987e-232c-404a-a95a-b29301f078b6
+    open: false
+    parentElementId: 8593e3d4-6005-4d87-8721-e30feeb98084
+    slotId: 23967315-328c-4f48-bdaf-8cd58506c762
 id: c67734b9-e7f7-4b89-8d1c-432e9fee6ab8
 name: 00-presentation
 pages:
   - model: Page
-    active: true
-    focused: true
+    active: false
+    focused: false
     id: 4b847055-affd-4b23-a779-4af72fb85159
     name: Intro
     rootId: 5c4ca181-562b-4722-ae58-5909aa46edc2
@@ -8365,6 +8780,12 @@ pages:
     id: b4f0fd27-4c48-49e9-b20b-cf5739a61c76
     name: (3) Prototype
     rootId: e18c2ba3-5578-4b39-ab58-d4cb20eb5996
+  - model: Page
+    active: true
+    focused: false
+    id: 15778b09-3fb9-46d2-ab90-a0ec3ab5ab69
+    name: Page 1
+    rootId: 4bc3e0cc-6140-497e-9041-79418c75195d
 path: /Users/tilman/Github/meetalva/alva-for-devs/00-presentation.alva
 patternLibraries:
   - model: PatternLibrary
@@ -11758,7 +12179,7 @@ userStore:
     model: UserStoreProperty
     id: 625db2d0-bfb5-4f9d-a90b-17841dcc4e02
     name: Current Page
-    concreteValue: 4b847055-affd-4b23-a779-4af72fb85159
+    concreteValue: 15778b09-3fb9-46d2-ab90-a0ec3ab5ab69
     initialValue: ''
     type: concrete
     valueType: page
@@ -12035,3 +12456,28 @@ userStore:
       open: false
       elementPropertyId: >-
         7290bdca-c2d5-4862-8ad3-399006b3e144-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+    - model: UserStoreReference
+      id: 41b1c31d-f8bb-4b3a-939b-a316bdfcc706
+      open: false
+      elementPropertyId: >-
+        47f3d46f-8f19-41e5-a422-45e2ef6cc703-b788b8f6-e034-4f53-b871-0beb39e0bcc6
+    - model: UserStoreReference
+      id: 782aa23a-a7f1-453b-aef3-bf843039da34
+      open: false
+      elementPropertyId: >-
+        7c2c21c1-5b99-4f8b-b355-08ec937dd7c2-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+    - model: UserStoreReference
+      id: eede1f62-0eea-472a-bb60-08c982ea5b56
+      open: false
+      elementPropertyId: >-
+        4232f0d6-82cd-416e-b5ed-221543189442-b788b8f6-e034-4f53-b871-0beb39e0bcc6
+    - model: UserStoreReference
+      id: 55592213-f8d4-4985-8ba5-afe4495d595a
+      open: false
+      elementPropertyId: >-
+        90e0686b-dd7c-48f6-9258-ce150dea73b4-d41d88b9-5aa6-4ac2-89ca-294fc97305f2
+    - model: UserStoreReference
+      id: a2120455-23d4-4f27-9dad-1224313f5497
+      open: false
+      elementPropertyId: >-
+        d57a2071-fe6c-45e5-b89d-bf6959059515-b788b8f6-e034-4f53-b871-0beb39e0bcc6
