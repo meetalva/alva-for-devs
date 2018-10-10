@@ -9,10 +9,14 @@
   "author": "Mario Nebl <hello@mario-nebl.de>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^10.11.6",
     "@types/react": "^16.4.16",
     "typescript": "^3.1.2"
   },
   "dependencies": {
+    "@types/query-string": "^6.1.0",
+    "jsonp-promise": "^0.1.2",
+    "query-string": "^6.2.0",
     "react": "^16.5.2"
   }
 }
