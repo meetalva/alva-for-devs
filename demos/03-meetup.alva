@@ -55,7 +55,7 @@ pages:
     id: c158ff9f-72fe-483c-a5fb-501d6c9b61e7
     name: Page 1
     rootId: 78416882-140c-4cc5-a166-38b55ddfe13e
-path: /Users/marneb/Documents/alva/alva-for-devs/03-meetup.alva
+path: /Users/tilman/Github/meetalva/alva-for-devs/03-meetup.alva
 patternLibraries:
   - model: PatternLibrary
     bundleId: ''
